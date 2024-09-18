@@ -1,0 +1,785 @@
+*name=The well*
+*members=solo*
+*area=karon*
+*material=snake skin and anaconda's gall*
+*MaxDailyRuns=unlimited*
+||The well
+
+location: stone ladder;68;104;Karon Village
+Hey, outsider, are you here for the snakes? They're all in the snake cave of the underground river at the bottom of the well. If you've learned Turtle Breath and can swim in the water, then you can get there by going down the well, then keep going east until you've swum across the underground river.
+If you don't know Turtle Breath, then you'll have to take a long detour. There's an abandoned pipe on the north side of the lower stairs. You'll have to go through there. There's a slope at the exit of the pipe that leads down to the snake cave.
+Please be careful, there's a giant Anaconda in the snake cave, it'll eat you alive.||
+
+*name=Batking incarnate shrine*
+*members=2 to 4*
+*area=Mario Basin*
+*MaxDailyRuns=10*
+||Batking incarnate shrine:
+
+location: doorway;northern town;87;55;Mario Basin
+To fight the Bat King Incarnate, you need to form a team and enter together. It's best to have a melee class and healing class in your team. The melee class can attract the monster's attention and deal defense break to it in the front, while the healing class can heal the HP of team members in the back. This is a good way to withstand the monster's attack.
+The melee class can use defense break skills in succession within the effective duration of each defense break skill to achieve maximum defense break effect. Then, they need to keep dealing defense break to maintain the effect.
+And the healing class need to remember not to heal too much HP, as doing so will make him/her generate a significant amount of threat from the bat king, causing it to attack the healing class instead. In combat, you can open up the target information window frequently to check the Bat King's threat.
+If your team has long-range classes, they can greatly increase the damage dealt to the monster, but they also need to pay attention to avoid generating too much threat and attract the monster's attention.||
+
+*name=Enchanted barrier*
+*members=solo*
+*area=Mario Basin*
+*MaxDailyRuns=8*
+||Enchanted barrier:
+
+location: center of the village;breezy Village;231;126;Mario Basin
+A few mutant beasts in the forest broke in when the barrier was weak. I've used the Enchanted Bead to trap them in a spatial barrier. But doing so will weaken the village barrier. Please, warrior, eliminate the mutant beasts in the spatial barrier!
+Accept Mission; you will receive 5000 experience and 5000 Arnebia; requires level 20 to 30; You must wait 1 hour to accept this mission again, which can be accepted up to 8 times a day. You have accepted it 0 times.||
+
+*name=Dimensional Space*
+*members=solo*
+*area=Central Plains*
+*material=none*
+*MaxDailyRuns=1*
+*MinLevel=26*
+||Dimensional Space
+
+location: village;mettle village;65;64;central plains
+Warrior, there are still some demons left in this dimensional space. Do you want to go in and eliminate them?
+Enter the dimensional space; limited to Level 26 to 45
+Tip: This dungeon is an adventure dungeon. You will receive dungeon rewards and 20000 experience upon completion. If you failed in the dungeon, you can re-enter countless times until you've completed it. After you've completed the dungeon, you cannot re-enter it on the same day.||
+
+*name =Gale Cave*
+*members=solo*
+*area=Fertile Wilds*
+*material=bluish white horse fusion beast*
+*MaxDailyRuns=1*
+||Gale Cave
+
+location: aisle;123;297;Fertile Wilds
+note: entrance to a different map
+After completing, you get the speed fusion beast bluish white horse as a reward.||
+
+*name=Demon base*
+*members=solo*
+*area=Fertile Wilds*
+*material=insulating glue*
+*MaxDailyRuns=1*
+*MinLevel=36*
+*points=xx*
+
+||Demon base
+
+location: mountain road;395;2;Fertile Wilds
+A base for storing High explosives. When the explosives reach a critical number, the demons will detonate them and open the demon world tunnel. The warrior need to detonate the explosives before they reach a critical number and destroy the base.
+Dungeon Level 40, Limited to Level 36 and above. Completing the dungeon will reward you with Insulating glue(the material to craft soft pouch), other items, and experience.
+When the warrior enters the dungeon, they will appear on the mountain road south of the base. After passing north through the east or west stairwell, they will soon come to a warning corridor that runs through the east and west. From there, head north to find an insulated corridor. Then, keep going north, and they will find the explosive base.
+There are patrolling demons in both the warning corridor and insulated corridor. The warrior must be careful not to be spotted by them. If the patrolling demons found you, they will rush back to the main barrack to sound the alarm, leading an army of demons to hunt down and kill the warrior.
+There are 20 stairwells connecting the warning corridor and insulated corridor, from west to east, they are Stairwell No. 1, Stairwell No. 2, Stairwell No. 3...to Stairwell No. 20. There is a door between the stairwell and the corridor, so you can hide from the demons in the stairwell. The warrior should hide in the stairwell first, wait until the patrolling demons are gone, then move to the corridor.
+The warrior needs to head to two places, which are the east and west control rooms that are accessible through Stairwell No. 1 and Stairwell No. 20 on the farthest sides of the corridors respectively. After entering the stairwell, the warrior needs to head north to enter the aisle on the east or west side of the base (depending on which side the stairwell is on), then they can enter the control room to operate the electronic console and connect the fuse. When the fuses on both sides are connected, the explosives will be detonated and blast all the demons in the main barrack to pieces. The warrior can then go south from the Control Room to the main barracks, destroy the core components of the base, and complete the quest.
+Tip 1: This dungeon is an adventure dungeon. If you fail, you can re-enter the dungeon countless times until you've completed it. After you've completed the dungeon, you cannot re-enter it on the same day.
+Tip 2: If the warrior is killed in the explosive base dungeon, they have a chance to respawn on the beginning mountain road in the dungeon map.||
+
+*name=Death wormhole*
+*members=2 to 3*
+*area=hidden water cave*
+*material=Ironclad crystal*
+*MaxDailyRuns=1*
+*MinLevel=40*
+*points=3*
+||Death wormhole(Ordinary)
+
+location: stone chamber;26;49;hidden water cave
+Requires a team of 2 to 3 players (3 adventure points)
+At the foot of Herbal Mountain, there is a cave hollowed out by a group of demon worms that dwells inside. These terrifying worms are nourished by spirit energy and can grow rapidly, but at the same time, under the influence of Demonic Energy, these worms have mutated, and a horrifying death worm has been born. Now the growth of the plants in the valley has been affected by the demon worms. Perhaps they will venture out of the mountain very soon. Warriors, please eliminate these abominations as soon as possible!
+Dungeon Level 45, Limited to Level 40 and above. difficulty Ordinary. Completing the dungeon will reward you with Ironclad crystal (the material to craft Iron Beetle fusion beasts), other items, and experience.
+The warriors must be careful of the demonized Death Worm, which is much more powerful than the Death Worm you have encountered before. The Demonized Death Worm lives in the hive north of the wormhole.
+Tip 1: This dungeon is an adventure dungeon. If you fail, you can re-enter the dungeon countless times until you've completed it. Clearing the dungeon will cost you Adventure Points; You won't get any experience or rewards if you don't have enough adventure points or if you have already completed the dungeon.
+Tip 2: When the warrior's level is no higher than the dungeon level by 4 level, you will receive 3x main material reward when you complete the dungeon for the first time.||
+
+*name=Ice maze*
+*members=1 to 2*
+*area=hidden water cave*
+*material=Ebony Metal*
+*MaxDailyRuns=1*
+*MinLevel=50*
+*points=xx*
+||Ice maze(Ordinary)
+
+location:stone chamber;28;107;hidden water cave
+Requires 1 to 2 players.
+The ice queen's two maids used Demonic Energy to train themselves, greatly enhancing their magic power. and the ice queen used magic to create a maze for them to train in its deepest parts. The maze is heavily guarded by various ice demons.
+When the two maids finish their training, the Ice Queen will acquire powerful aid, and she will leave the Ice Palace to achieve her goal—freezing the entire world. Warriors, please eliminate the maids in training.
+Dungeon Level 55, Limited to Level 50 and above; difficulty Ordinary. Completing the dungeon will reward you with Ebony Metal (the material to craft One Star Attack Medal), other items, and experience.
+Tip 1: This dungeon is an adventure dungeon. If you fail, you can re-enter the dungeon countless times until you've completed it. Clearing the dungeon will cost you Adventure Points; You won't get any experience or rewards if you don't have enough adventure points or if you have already completed the dungeon.
+Tip 2: When the warrior's level is no higher than the dungeon level by 4 level, you will receive 3x main material reward when you complete the dungeon for the first time.||
+
+*name=Herbal Mountain*
+*members=2 to 3*
+*area=hidden water cave*
+*material=Suspicious Plating*
+*MaxDailyRuns=1*
+*MinLevel=50*
+*points=6*
+||The crisis of Herbs Village(Slightly difficult) = Herbal Mountain:
+
+location: stone chamber;93;107;hidden water cave
+Requires a team of 2 to 3 players (6 adventure points)
+On Herbal Mountain, there is a village called Herbs Village, where villagers have been growing herbs for generations. Recently, the bison and goats on the mountain suddenly went crazy and attacked the village, and a bison ate some magic herb and evolved into a demon. But due to the influence of Demonic Energy, the demon became ferocious and started to call itself the Bull King. Warriors, please eliminate the demonized bison and goats, and restore peace to Herbs Village.
+Dungeon Level 55, Limited to Level 50 and above; difficulty Slightly difficult. Completing the dungeon will reward you with Suspicious Plating (the material to craft One Star Attack Medal), other items, and experience.
+Tip 1: This dungeon is an adventure dungeon. If you fail, you can re-enter the dungeon countless times until you've completed it. Clearing the dungeon will cost you Adventure Points; You won't get any experience or rewards if you don't have enough adventure points or if you have already completed the dungeon.
+Tip 2: When the warrior's level is no higher than the dungeon level by 4 level, you will receive 3x main material reward when you complete the dungeon for the first time.||
+
+*name=Wolf Head Mountain*
+*members=2 to 3*
+*area=hidden water cave*
+*material=Glowstone*
+*MaxDailyRuns=1*
+*MinLevel=45*
+*points=3*
+||Evolved Caesar(Slightly difficult) = Wolf Head Mountain:
+
+location: stone chamber;61;49;hidden water cave
+Requires a team of 2 to 3 players (3 adventure points)
+Man-wolf Caesar has obtained a wolf king crystal from the demons. With its power, Caesar has evolved into a demonized man-wolf and become much stronger. He is planning to lead an army of demon wolves to raid the human city. Warriors, please eliminate Caesar, who is training in the wolf head mountain, and vanquish the demon wolves' evil plan.
+Dungeon Level 50, Limited to Level 45 and above. Difficulty slightly difficult. Completing the dungeon will reward you with Glowstone (the material to craft Firefly fusion beasts), other items, and experience.
+There are many guards outside Caesar's secret room. If you want to get in there, you must first eliminate these wolf guards.
+When fighting Caesar, please pay attention to the Wolf King Crystal. Whenever it glows, it will summon a demon wolf general to assist Caesar in combat.
+Tip 1: This dungeon is an adventure dungeon. If you fail, you can re-enter the dungeon countless times until you've completed it. Clearing the dungeon will cost you Adventure Points; You won't get any experience or rewards if you don't have enough adventure points or if you have already completed the dungeon.
+Tip 2: When the warrior's level is no higher than the dungeon level by 4 level, you will receive 3x main material reward when you complete the dungeon for the first time.||
+
+*name=Bubble Cube*
+*members=solo*
+*area=hidden water cave*
+*material=Glowstone*
+*MaxDailyRuns=1*
+*MinLevel=50*
+*points=xx*
+||Bubble Cube(Ordinary):
+
+location: stone chamber;96;49;hidden water cave
+Solo dungeon
+A strange giant bubble has appeared over Polson Wetland, emanating an ominous elemental aura from within. Warrior, please destroy this mysterious object.
+Dungeon Level 55, Limited to Level 50 and above. Difficulty Ordinary. Completing the dungeon will reward you with Glowstone (the material to craft Firefly fusion beasts), other items, and experience.
+Tip 1: This dungeon is an adventure dungeon. If you fail, you can re-enter the dungeon countless times until you've completed it. Clearing the dungeon will cost you Adventure Points; You won't get any experience or rewards if you don't have enough adventure points.
+Tip 2: When the warrior's level is no higher than the dungeon level by 4 level, you will receive 3x main material reward when you complete the dungeon for the first time.||
+
+*name=Spider cave*
+*members=solo*
+*area=water curtained cave*
+*MaxDailyRuns=1*
+*MinLevel=40*
+||Spider cave:
+
+location:aisle;water curtain cave;54;4;water curtained cave
+Solo XP dungeon (from level 40)
+Spider cave is an Experience Dungeon, which can be entered once a day. If you've already entered other experience dungeons today, then you cannot enter this dungeon. Please eliminate as many monsters as you can within the time limit to gain more experience. Your pet will move on its own in the experience dungeon.||
+
+*name=Graceful Mountain*
+*members=solo*
+*area=water curtained cave*
+*material=Ironclad crystal*
+*MaxDailyRuns=1*
+*MinLevel=45*
+*points=xx*
+||Abnormal Mountain Boar (Ordinary) = Graceful Mountain:
+
+location: cave;water curtain cave;34;39;water curtained cave
+Solo dungeon
+There is a group of boars living on Graceful Mountain. Originally, the well-fed boars lived peacefully with the humans. But under the influence of Demonic Energy, some boars underwent strange changes, and a fierce boar king was born. If we do not step in, the boar king will become stronger, and soon another group of beasts will become the demon's minions.
+The boars will return to normal once we eliminate the demonized Boar king. Warrior, please vanquish that demon boar.
+Dungeon Level 50, Limited to Level 45 and above. Completing the dungeon will reward you with Ironclad crystal (the material to craft Iron Beetle fusion beasts), other items, and experience.
+Tip 1: This dungeon is an adventure dungeon. If you fail, you can re-enter the dungeon countless times until you've completed it. Clearing the dungeon will cost you Adventure Points; You won't get any experience or rewards if you don't have enough adventure points.
+Tip 2: When the warrior's level is no higher than the dungeon level by 4 level, you will receive 3x main material reward when you complete the dungeon for the first time.||
+
+*name=Scorpion Cave*
+*members=solo*
+*area=thousand miles of rivers*
+*MaxDailyRuns=1*
+*MinLevel=60*
+||Scorpion Cave:
+
+location:cave;171;184;thousand miles of rivers
+Solo XP dungeon (from level 60)
+Scorpion cave is an Experience Dungeon, which can be entered once a day. If you've already entered other experience dungeons today, then you cannot enter this dungeon. Please eliminate as many monsters as you can within the time limit to gain more experience. Your pet will move on its own in the experience dungeon.||
+
+*name=Cathy Manor*
+*members=solo*
+*area=thousand miles of rivers*
+*material=Suspicious Plating*
+*MaxDailyRuns=1*
+*MinLevel=55*
+*points=xx*
+||Cathy Manor(Slightly difficult):
+
+location: West Cave;cavern;133;142;thousand miles of rivers
+Solo dungeon
+Cat King Carter's younger sister, Princess Cathy, has a manor where she has gathered a group of wild cat troops that are much stronger than the normal wild cats that can usually be seen, and prepares to help her brother attack human towns.
+Warriors, please go to Cathy Manor to find out and smash Princess Cathy's conspiracy.
+Dungeon Level 60, Limited to Level 55 and above; difficulty Slightly difficult. Completing the dungeon will reward you with Suspicious Plating (the material to exchange for One Star Attack Medal), other items, and experience.||
+
+*name=Mount Bear's Paw*
+*members=2 to 3*
+*area=thousand miles of rivers*
+*material=Green cotton yarn*
+*MaxDailyRuns=1*
+*MinLevel=55*
+*points=3*
+||bear haunt(Ordinary) = Mount Bear's Paw:
+
+location: East Cave;cavern;150;142;thousand miles of rivers
+Requires a team of 2 to 3 players (3 adventure points)
+Mount Bear's Paw is a mountain Peak wind located on goon mountain. It is named for its shape like a bear's paw. There are many bears living there. Recently, these bears often come down the mountain to attack humans. It turns out that there is a demonized bear king.
+Warriors, please go to the Mount Bear's Paw to destroy the Demonized Bear King and his subordinates.
+Dungeon Level 60, Limited to Level 55 and above; difficulty Ordinary. Completing the dungeon will reward you with Green cotton yarn (the material to exchange for hot bag), other items, and experience.||
+
+*name=Baru Grottoe*
+*members=solo*
+*area=thousand miles of rivers*
+*material=Red velvet*
+*MaxDailyRuns=1*
+*MinLevel=60*
+*points=xx*
+||Baru Grottoe(Difficult):
+
+location: Northwest turn;178;102;thousand miles of rivers
+Solo dungeon
+A very powerful demon, Baru, is imprisoned in the Baru Grottoe. Baru's immortality prevents him from being killed, and he can only be sealed. Whenever the seal is loosened, heroes are needed to defeat the weak Baru and strengthen the seal.
+Warrior, Baru's seal is loose again. If the seal breaks, Baru will bring disaster. Please enter the Grottoe to defeat Baru and strengthen the seal.
+Dungeon Level 65, Limited to Level 60 and above; difficulty Ordinary. Completing the dungeon will reward you with Red velvet (the material to exchange for hot bag), other items, and experience.||
+
+*name=Elemental Maze*
+*members=solo*
+*area=thousand miles of rivers*
+*material=Green cotton yarn*
+*MaxDailyRuns=1*
+*MinLevel=60*
+*points=xx*
+||Elemental Maze(Ordinary):
+
+location: southeast turn;177;78;thousand miles of rivers
+Solo dungeon
+Dream Elf Avril's maze, many adventurers have fallen into it but failed to come out, Avril is hiding in the center of the maze.
+Warriors, please enter the maze, defeat her, eliminate the maze and rescue the warriors trapped in it.
+Dungeon Level 65, Limited to Level 60 and above; difficulty Ordinary. Completing the dungeon will reward you with Green cotton yarn (the material to exchange for hot bag), other items, and experience.||
+
+*name=Underwater grottoe*
+*members=solo*
+*area=thousand miles of rivers*
+*material=Crystal Wolf Teeth or Crystal coral*
+*MaxDailyRuns=2*
+*MinLevel=65*
+*points=3*
+||rampant water monsters = Underwater grottoe
+
+location: Entrance into the small area with the portal is at west waterway;4;369;thousand miles of rivers 
+Solo dungeon
+Dungeon can be completed 2 times a day.
+The water monsters in the peace and tranquility under heaven and Inland Sea Basin are seriously rampant, which has reduced the aquatic production in this area.
+Warriors, please go and clear the source of the water monsters.
+Dungeon Level 70, Limited to Level 65 and above; difficulty Ordinary. Completing the dungeon will reward you with Crystal Wolf Teeth (Werewolf fusion beasts the material to craft), Sea Spirit Crystal coral(Guardian fusion beasts the material to craft), other items, and experience.||
+
+*name=monster factory*
+*members=2 to 3*
+*area=mine tunnel*
+*material=Crystal Wolf Teeth or Crystal coral*
+*MaxDailyRuns=xx*
+*MinLevel=60*
+*points=3*
+||monster factory (Ordinary)
+
+location: stone chamber;114;61;mine tunnel
+Requires a team of 2 to 3 players (3 adventure points)
+A person who claims to be a Demonist built a factory for researching and manufacturing demons in an underground space. Warriors, please go to destroy the Demonist and stop demon world from researching demons.
+Dungeon Level 65, Limited to Level 60 and above; difficulty Ordinary. Completing the dungeon will reward you with Crystal Wolf Teeth (the material to craft Werewolf fusion beasts), Crystal coral (the material to craft Sea Spirit Guardian fusion beasts), other items, and experience.||
+
+*name=monster factory*
+*members=2 to 3*
+*area=mine tunnel*
+*material=Werewolf Soul Orb or Sea Spirit Soul Orb*
+*MaxDailyRuns=1*
+*MinLevel=60*
+*points=6*
+||underground power plant (Difficult)
+
+location: stone chamber;60;114;mine tunnel
+Requires a team of 2 to 3 players (6 adventure points)
+The operation of the abandoned factories in the Domi Wasteland relies on an underground power plant. The puppet master Pinocchio is creating a highly destructive explosive in the underground power plant. Warriors, please go to the underground power plant to stop Pinocchio's plans.
+Dungeon Level 65, Limited to Level 60 and above; difficulty Ordinary. Completing the dungeon will reward you with Werewolf Soul Orb (the material to craft Werewolf fusion beasts), Sea Spirit Soul Orb (the material to craft Sea Spirit Guardian fusion beasts), other items, and experience.||
+
+*name=Crimson Mausoleum*
+*members=1 to 2*
+*area=mine tunnel*
+*material=Ebony Metal*
+*MaxDailyRuns=xx*
+*MinLevel=55*
+*points=xx*
+||Crimson Mausoleum (Ordinary)
+
+location: stone chamber;7;61;mine tunnel
+Requires 1 to 2 players
+It is impossible to verify who owns this mausoleum. One warrior after another entered it hoping to find out its secrets. Most of them gave their lives, and only a few people could come out alive. Those who died have become the guardians of the mausoleum, those survivors named the mausoleum Crimson. Warriors, please enter it, help the explorers lost in the crimson Mausoleum to escape, and reveal Mausoleum's secrets.
+Dungeon Level 60, Limited to Level 55 and above; difficulty Ordinary. Completing the dungeon will reward you with Ebony Metal (the material to exchange for One Star Attack Medal), other items, and experience.||
+
+*name=Black Gate Prison*
+*members=2 to 3*
+*area=mine tunnel*
+*material=Red velvet*
+*MaxDailyRuns=1*
+*MinLevel=55*
+*points=6*
+||Black Gate Prison (Difficult):
+
+location: stone chamber;61;6;mine tunnel
+Requires a team of 2 to 3 players (6 adventure points)
+Black Gate Prison housed many demon soldiers and serious criminals. The demon bishop in black often led his supports in an attempt to rob the prison. Warriors, please go to the Black Gate Prison to eliminate the demon support troops and black bishop who robbed the prison, suppress the demon prisoners there.
+Dungeon Level 60, Limited to Level 55 and above; difficulty Difficult. Completing the dungeon will reward you with Red velvet (the material to exchange for hot bag), other items, and experience.
+Special reminder: The criminals held in the prison will destroy the prison gates, please repair the prison gates in time to prevent the demon criminals from swarming out.||
+
+*name=Lisa's Ukulele*
+*members=solo*
+*area=Valley of Luxuriant forests*
+*material=White Bone Piece*
+*MaxDailyRuns=2*
+*MinLevel=70*
+*points=3*
+||Lisa's Ukulele (Ordinary)
+
+location: Chalet;Orchid woods Village;179;128;Valley of Luxuriant forests
+portal: 1;Villager Lisa;0 Yard
+Solo dungeon
+Dungeon can be completed 2 times per day
+Lisa's Ukulele makes some weird noises when she plays it, can you help her?
+Dungeon Level 75, Limited to Level 70 and above; difficulty Ordinary. Completing the dungeon will reward you with White Bone Piece (the material to craft Nightmare beast fusion beasts), other items, and experience.||
+
+*name=Machine Fortress*
+*members=solo*
+*area=Valley of Luxuriant forests*
+*material=Turquoise Metal*
+*MaxDailyRuns=2*
+*MinLevel=70*
+*points=3*
+||Machine Fortress (Slightly difficult)
+
+location: Chalet;Orchid woods Village;122;128;Valley of Luxuriant forests
+Solo dungeon
+Dungeon can be completed 2 times per day.
+Doctor Meow Meow has developed a new weapon based on creatures from other dimensions, named Battle Tyrannosaurus. This weapon is still in the development stage and does not have enough intelligence. Please go to the secret fortress to stop Doctor Meow Meow's plan.
+Dungeon Level 75, Limited to Level 70 and above; difficulty Slightly difficult. Completing the dungeon will reward you with Turquoise Metal (the material to craft Two Star Attack Medal), other items, and experience.||
+
+*name=Dryad Jungle*
+*members=1 to 2*
+*area=Valley of Luxuriant forests*
+*material=Turquoise Metal*
+*MaxDailyRuns=1*
+*MinLevel=65*
+*points=xx*
+||Dryad Jungle (Slightly difficult)
+
+location: inner road;Orchid woods Village;166;156;Valley of Luxuriant forests
+Requires 1 to 2 players
+There is a group of man-eating plants entrenched in the Dryad Jungle, and those who stray into the Jungle never come out alive.
+Warriors, please go to destroy the man-eating plants and their dryad leaders in the Dryad Jungle.
+Dungeon Level 70, Limited to Level 65 and above; difficulty Slightly difficult. Completing the dungeon will reward you with Turquoise Metal (the material to craft Two Star Attack Medal), other items, and experience.
+Tip 1: This dungeon is an adventure dungeon. If you fail, you can re-enter the dungeon countless times until you've completed it. Clearing the dungeon will cost you Adventure Points; You won't get any experience or rewards if you don't have enough adventure points or if you have already completed the dungeon.
+Tip 2: When the warrior's level is no higher than the dungeon level by 4 level, you will receive 3x main material reward when you complete the dungeon for the first time.
+
+*name=Zagrama Canyon*
+*members=1 to 2*
+*area=Valley of Luxuriant forests*
+*material=Werewolf Soul Orb or Sea Spirit Soul Orb*
+*MaxDailyRuns=1*
+*MinLevel=65*
+*points=3*
+||sprawling desert (Difficult) = Zagrama Canyon 
+
+location: inner road;Orchid woods Village;127;156;Valley of Luxuriant forests
+Requires 1 to 2 players
+The cacti of the Takama Desert began to grow wildly from the depths of the Zagrama Canyon, and wherever these mutated plants went, there would turn into deserts.
+Warriors, please go to eradicate the mutated cacti in the Zagrama Canyon to prevent further expansion of the desert.
+Dungeon Level 70, Limited to Level 65 and above; difficulty Ordinary. Completing the dungeon will reward you with Werewolf Soul Orb (the material to craft Werewolf fusion beasts), Sea Spirit Soul Orb (the material to craft Sea Spirit Guardian fusion beasts), other items, and experience.
+Tip 1: This dungeon is an adventure dungeon. If you fail, you can re-enter the dungeon countless times until you've completed it. Clearing the dungeon will cost you Adventure Points; You won't get any experience or rewards if you don't have enough adventure points or if you have already completed the dungeon.
+Tip 2: When the warrior's level is no higher than the dungeon level by 4 level, you will receive 3x main material reward when you complete the dungeon for the first time.||
+
+*name=Silver Peak*
+*members=solo*
+*area=Valley of Luxuriant forests*
+*material=Lesser Demon Core*
+*MaxDailyRuns=2*
+*MinLevel=75*
+*points=3*
+||Silver Peak (Ordinary)
+
+location: platform;Orchid woods Village;151;189;Valley of Luxuriant forests
+Solo dungeon
+Dungeon can be completed 2 times per day
+In Pine Village under the Silver Peak, villagers have often been kidnapped recently. This is caused by a snow-white humanoid creature. Warriors, please go to eradicate this mysterious creature and restore peace to Pine Village.
+Dungeon Level 80, Limited to Level 75 and above; difficulty Slightly difficult. Completing the dungeon will reward you with Lesser Demon Core (the material to craft Medal of the demon Hunting boy or Medal of the Demon Chasing girl), other items, and experience.||
+
+*name=bottomless pit*
+*members=solo*
+*area=Valley of Luxuriant forests*
+*MaxDailyRuns=1*
+*MinLevel=80*
+||bottomless pit
+
+location:valley;150;19;Valley of Luxuriant forests
+Solo XP dungeon (from level 80)
+bottomless pit is an Experience Dungeon, which can be entered once a day. If you've already entered other experience dungeons today, then you cannot enter this dungeon. Please eliminate as many monsters as you can within the time limit to gain more experience. Your pet will move on its own in the experience dungeon.||
+
+*name=Guardian Stronghold*
+*members=2 to 3*
+*area=Plague Abyss*
+*material=Nether Fire*
+*MaxDailyRuns=1*
+*MinLevel=65*
+*points=6*
+||Guardian Stronghold(Difficult)
+
+location: stone chamber;113;104;Plague Abyss
+Requires a team of 2 to 3 players (6 adventure points)
+Once, the Guardian Stronghold was an important military facility for humans to defend against demons. Human troops are stationed in it, and there are even more powerful biochemical warrior Guardian Shadick and biochemical beast Guardians guarding it.
+One day, disaster suddenly struck. Devilish energy permeates the earth, bringing along with it a terrible plague. The soldiers in the guardian stronghold were successively infected by the plague and became terrible vampire zombies. Demons also took advantage of the situation and destroyed the central control system. Guardian Shadick and other Guardians lost control. From then on, the guardian stronghold has been abandoned.
+Warriors, please go to eliminate the zombies and guardians in the Guardian Stronghold, regain this important military facility.
+Dungeon Level 70, Limited to Level 65 and above; difficulty Difficult. Completing the dungeon will reward you with Nightmare beast fusion beasts (the material to craft Nether Fire), other items, and experience.||
+
+*name=Marshall's artillery*
+*members=2 to 3*
+*area=Plague Abyss*
+*material=Glazed Diamond*
+*MaxDailyRuns=1*
+*MinLevel=70*
+*points=6*
+||Marshall's artillery(Difficult)
+
+location: stone chamber;113;78;Plague Abyss
+Requires a team of 2 to 3 players (6 adventure points)
+Marshall is an evil and cunning killer, countless people died under his blade. Warriors, please go and eradicate this human cancer.
+Dungeon Level 75, Limited to Level 70 and above; difficulty Difficult. Completing the dungeon will reward you with Medal of the demon Hunting boy or Medal of the Demon Chasing girl (the material to craft Glazed Diamond), other items, and experience.
+Tip: After the dungeon officially starts, warriors need to enter the blockhouse from the east side door all the way to the east.
+After arriving at the South battery Entrance, you need to lure out the guards in the battery and kill them, otherwise you will face the double threat of antiaircraft gun and guards when you enter the fort.
+There is an antiaircraft gun in each of the four corners of the South battery. When entering the South battery, warriors need to run to the east and west sides at the same time to smash the antiaircraft gun in the corner, and then go north to smash the other two antiaircraft guns.
+After passing through the South battery, go to the warehouse in the middle to get two keys, and then open the two locked doors of the Middle battery. After unlocking, lead out the guards inside the middle battery and kill them.
+Then be sure to divide into two roads, enter the middle battery from the north and south entrances at the same time, and go west to smash the two antiaircraft guns on the middle battery.If you don't smash the two cannons of the middle battery, you will be attacked by the middle battery after leaving the fort. Then attack the North battery in the same way as the South battery.
+After entering the base, kill a group of guards first, then two players prepare to destroy shells in the south guard room, and one player accacks a smoothbore gun in the north guard room. The smoothbore gun can hold five shells, and you need to lead it to fire up all of its shells before approaching. At this time, the conveyor belt in the south will supply shells to the smoothbore gun. Players in the south need to smash the shells on the conveyor belt in time to prevent the smoothbore gun from being replenished and causing damage to players in the north.||
+
+*name=amazing old city*
+*members=1 to 2*
+*area=Plague Abyss*
+*material=Nether Fire*
+*MaxDailyRuns=xx*
+*MinLevel=70*
+*points=xx*
+||amazing old city(Difficult)
+
+location: stone chamber;113;29;Plague Abyss
+Requires 1 to 2 players
+There is an ancient city ruins in the Takama Desert, named amazing old city, which is said to have been the residence of the demons who came out of the ghost cave of the ancient city. This grouph of demons are ruled by a terrifying queen. It is said that the eyes of the queen are connected to the void. If someone violate the queen's will, he or she will disappear out of thin air under the queen's gaze. After the Queen's death, this branch of demon clan also disappeared. Only one devil flower was left to guard the queen's coffin.
+Dungeon Level 75, Limited to Level 70 and above; difficulty Difficult. Completing the dungeon will reward you with Nightmare beast fusion beasts (the material to craft Nether Fire), other items, and experience.||
+
+*name=Gnome excavation plant*
+*members=2 to 3*
+*area=Plague Abyss*
+*material=Lesser Demon Core*
+*MaxDailyRuns=1**
+*MinLevel=70*
+*points=6*
+||Gnome excavation plant(Ordinary)
+
+location: stone chamber;9;78;Plague Abyss
+Requires a team of 2 to 3 players (6 adventure points)
+A group of Gnome occupied a mining area rich in minerals, which not only reduced the output of this mining area, but also often attacked humans in mining areas where human activities were active.
+Warriors, please go ahead and destroy these cunning little ones.
+Dungeon Level 75, Limited to Level 70 and above; difficulty Slightly difficult. Completing the dungeon will reward you with Medal of the demon Hunting boy or Medal of the Demon Chasing girl (the material to craft Lesser Demon Core), other items, and experience.||
+
+*name=bloody cave*
+*members=2 to 3*
+*area=Plague Abyss*
+*material=White Bone Piece*
+*MaxDailyRuns=xx*
+*MinLevel=65*
+*points=3*
+||bloody cave(Ordinary)
+
+location:stone chamber;8;104;Plague Abyss
+Requires a team of 2 to 3 players (3 adventure points)
+A group of cruel and bloodthirsty bats live in the Bloody Cave, where pig faced bats are even more common. These bats have a leader named Putra, and many people passing by the cave are captured by the bats and sacrificed to the leader Putra.
+Warriors, please go to destroy the bat leader Putra and his minions.
+Dungeon Level 70, Limited to Level 65 and above; difficulty Ordinary. Completing the dungeon will reward you with Nightmare beast fusion beasts (the material to craft White Bone Piece), other items, and experience.||
+
+*name=silver flying saucer*
+*members=2 to 3*
+*area=Ancient Ruins*
+*material=Gel essence*
+*MaxDailyRuns=1*
+*MinLevel=75
+*points=6*
+||silver flying saucer (Difficult)
+
+location: altar;City of the Ancient tower;153;87;Ancient Ruins
+Requires a team of 2 to 3 players (6 adventure points)
+A long time ago, a flying saucer crashed in the southeast of the Garth Empire. Since then, a force that does not belong to this planet has quietly begun to surge underground.
+Dungeon Level 80, Limited to Level 75 and above. difficulty Difficult. Completing the dungeon will reward you with Three Star Attack Medal (the material to craft Gel essence), other items, and experience.
+Tips: The organs and traps in the silver flying saucer can kill people, please be careful of the conductive plate with high-voltage current and the time bomb that suddenly falls around you.
+There will be robot birds patrolling in the hallway, you need to prevent them from calling for reinforcements. The camera in the corridor needs to be destroyed first, otherwise the camera will continuously call the robot dog out if you were found by the camera.||
+
+*name=Gomez manor*
+*members=solo*
+*area=Ancient Ruins*
+*material=Glazed Diamond*
+*MaxDailyRuns=2*
+*MinLevel=75
+*points=3
+||Gomez manor (Difficult)
+
+location:  of the Ancient tower;185;81;Ancient Ruins
+Solo dungeon
+Dungeon can be completed 2 times per day
+The former exorcist hero Gomez gradually lost himself in the struggle with the creatures of the demon world. In order to pursue stronger power, he finally sold his soul in exchange for a demonized body and became an evil demon.
+Not only did he betray the oath of the exorcist, but he also raised a large number of demons in his manor, allowing them to slaughter humans, and threatened to build a new world where the weak prey on the strong.
+Dungeon Level 80, Limited to Level 75 and above. difficulty Difficult. Completing the dungeon will reward you with Medal of the demon Hunting boy or Medal of the Demon Chasing girl (the material to craft Glazed Diamond), other items, and experience.||
+
+*name=Demon's Prison*
+*members=2 to 4*
+*area=Ancient Ruins*
+*material=liquid metal*
+*MaxDailyRuns=1*
+*MinLevel=75
+*points=6*
+||Demon's Prison (Difficult)
+
+location:  of the Ancient tower;216;87;Ancient Ruins
+Requires a team of 2 to 4 players (6 adventure points)
+In order to enslave human beings, the demons built a prison, in which the imprisoned human beings will be reformed and become minions of the demons. Those who would rather die than surrender will be captured by the Thunder Lord and sent to the Shock Room 13 for cruel electric torture. Countless people died there.
+Warriors, please go to rescue the human beings imprisoned in the prison and destroy the Thunder Lord.
+Dungeon Level 80, Limited to Level 75 and above. difficulty Difficult. Completing the dungeon will reward you with liquid metal(the material to craft weightless sack), other items, and experience.
+Tip: The area where the prison is located has been cursed by the Thunder Lord. When you are outside, please do not stay in the same position for too long, otherwise you will be hit by a 5-yard-diameter thunderbolt falling down. Listen for the sound of converging thunder and lightning.
+There are little devils standing guard in the corridor of the prison. Please kill them before they run to report. The little devils and their reinforcements will reappear repeatedly. It is necessary to arrange the route reasonably to avoid repeated encounters.||
+
+*name=Active Volcano*
+*members=2 to 4*
+*area=Ancient Ruins*
+*material=Minotaur Soul Orb or Blood Spirit Soul Orb*
+*MaxDailyRuns=1*
+*MinLevel=80*
+*points=6*
+||Awakened Volcano (Difficult) = Active Volcano
+
+location: of the Ancient tower;216;25;Ancient Ruins
+requires a team of 2 to 4 players (6 adventure points)
+The Fire Lord found a volcano of sufficient energy and awakened it, boosting his magic.
+Warriors, please go to destroy the Fire Lord and prevent the volcano from erupting.
+Dungeon Level 85, Limited to Level 80 and above. difficulty difficult. Completing the dungeon will reward you with Minotaur Soul Orb (the material to craft minotaur fusion beasts), Blood Spirit Soul Orb (the material to craft Blood spirit guardian fusion beasts), other items, and experience.
+Tip: Fissures in the volcano will spew flames periodically, please pass through the fissures during the pause period of the flames.
+Fireballs will jump out of the magma pool where the Fire Lord is. Please don't stay in the same position for too long. You need to lure the Fire Lord to the cave in the west to fight.||
+
+*name=Spiral Grottoe*
+*members=2 to 3*
+*area=Ancient Ruins*
+*material=Liquid metal*
+*MaxDailyRuns=1*
+*MinLevel=80*
+*points=6*
+||Spiral Grottoe (Difficult)
+
+location: altar;City of the Ancient tower;185;31;Ancient Ruins
+Requires a team of 2 to 3 players (6 adventure points)
+The Whale Monster Bigger has mastered a terrible magic, trying to turn the ocean into a vortex and suck everything on the land into the sea.
+Dungeon Level 85, Limited to Level 80 and above. difficulty Difficult. Completing the dungeon will reward you with Liquid metal (the material to craft weightless sack), other items, and experience.
+Tip: Please pay attention to avoid the vortex in the spiral cave, once you are sucked into the center by the vortex, you will die.
+Never use resurrection crystals in the center of the vortex.||
+
+*name=Centralia*
+*members=2 to 4*
+*area=Ancient Ruins*
+*material=Powerful magnet*
+*MaxDailyRuns=2*
+*MinLevel=80*
+*points=3*
+||small town cult (Difficult) = Centralia
+
+location: altar;City of the Ancient tower;154;25;Ancient Ruins
+Solo dungeon
+Dungeon can be completed 2 times per day
+Centralia used to be a beautiful tourist destination. But there has been a cult in the area that believes in the demon Samael. During a sacrificial activity, instead of summoning the demon Samael, they summoned a terrifying plague. The residents of the entire town turned into zombies, and only a few believers survived.
+The believers who have been possessed still do not give up, and prepare a terrible ceremony to summon the demon Samael again. Once the true Samael is summoned from the Demon World, it will bring even greater disasters to the world.
+Please collect the Emblem used to summon Samael, start the ceremony, make Samael hatch in advance and destroy it.
+Dungeon Level 85, Limited to Level 80 and above. Difficulty difficult. Completing the dungeon will reward you with Powerful magnet (the material to craft weightless sack), other items, and experience.||
+
+*name=Machining plant*
+*members=1 to 2*
+*area=far off regions*
+*material=Silver white metal*
+*MaxDailyRuns=xx*
+*MinLevel=75*
+*points=3*
+||Machining plant(Slightly difficult)
+
+location: beach;148;15;far off regions
+Requires 1 to 2 players
+The Machining plant supplies puppet soldiers continuously for the puppet troops, among which there are destructive super mechanical soldiers. Warriors, please go to the Machining plant to eliminate the puppet troops which pose threat to human beings.
+Please keep a distance from the hay cutter in the Machining plant. Even if you are 1 yard away from the hay cutter, you may also be attacked by it. You need to master the time to pass the hay cutter, and you can use it to attack the puppet soldiers.
+Please be careful to use the time bomb obtained from the Machining plant. After the time bomb is placed, it will explode within three seconds and attack all targets within 8 yards around it indiscriminately.
+Dungeon Level 80, Limited to Level 75 and above. difficulty Slightly difficult. Completing the dungeon will reward you with Three Star Attack Medal (the material to craft Silver white metal), other items, and experience.||
+
+*name=fully mountain*
+*members=2 to 3*
+*area=far off regions*
+*material=Powerful magnet*
+*MaxDailyRuns=xx*
+*MinLevel=75*
+*points=3*
+||fully mountain(Slightly difficult)
+
+location: beach;90;25;far off regions
+Requires a team of 2 to 3 players (3 adventure points)
+Groups of wild boars have often appeared in fully mountain recently, not only destroying crops, but also often hurting people. Warriors, please go and kill the rebellious wild boars in fully mountain.
+Dungeon Level 80, Limited to Level 75 and above. difficulty Slightly difficult. Completing the dungeon will reward you with weightless sack (the material to craft Powerful magnet), other items, and experience.||
+
+*name=Dark night camp*
+*members=1 to 2*
+*area=far off regions*
+*material=Medium Demon Essence*
+*MaxDailyRuns=xx*
+*MinLevel=85*
+*points=xx*
+||bloody pagan(Slightly difficult) = Dark night camp 
+
+location: stone house;mist gods Ruins;124;180;far off regions
+Requires 1 to 2 players
+They have betrayed God, faith and the world they are guarding. They have embarked on the road of betraying the world. Once they were invincible crusaders, once they fought for the people, but one day they changed completely. They became the subordinates of the devil. The crusader representing the guard is no longer there, and they have become the bloody pagans representing the cruelty.
+The dark night camp is connected with the abyss. If you fall into the abyss, you will die immediately. Do not use the resurrection crystal to resurrect in situ after falling into the abyss.
+Dungeon Level 90, Limited to Level 85 and above. difficulty Slightly difficult. Completing the dungeon will reward you with Medium Demon Essence (the material to craft Medal of adored by Female Soldiers or Medal of loved by the Counts), other items, and experience.||
+
+
+*name=Beast Mountain*
+*members=solo*
+*area=far off regions*
+*material=Crystal horn or Blood of Source*
+*MaxDailyRuns=2*
+*MinLevel=85*
+*points=3*
+||Tiger Roaring Forest(Ordinary) = Beast Mountain 
+
+location: stone house;mist gods Ruins;156;180;far off regions
+Solo dungeon
+Lots kinds of beasts live in the Beast Mountain. Due to the infiltration of demon energy, they are gradually demonized, especially the Tiger King, whose ability has been greatly improved under the influence of the mysterious law of time. Please go and destroy the demonized creatures in Beast Mountain.
+Tip: When using the jumping spring to jump over the cliff, please put it next to the wall, and stand by the wall yourself, in line with it, so that you can be sure to be ejected to the opposite side of the cliff.
+Dungeon Level 90, Limited to Level 85 and above. difficulty Slightly difficult. Completing the dungeon will reward you with Blood spirit Crystal (the material to craft Crystal horn), Sea Spirit Guardian fusion beasts (the material to craft Blood of Source), other items, and experience.||
+
+*name=Open sea*
+*members=solo*
+*area=far off regions*
+*material=Silver white metal*
+*MaxDailyRuns=2*
+*MinLevel=80*
+*points=3*
+||Dam repair(Ordinary) = Open Sea
+
+location: stone house;mist gods Ruins;245;180;far off regions
+Solo dungeon
+Dungeon can be completed 2 times per day
+The Langley Dam between the inner sea and the open sea was damaged by sea monsters. If it is not repaired urgently, the damaged dam will cause floods.
+Warriors, please repair the Langley Dam as soon as possible.
+Dungeon Level 85, Limited to Level 80 and above. difficulty ordinary. Completing the dungeon will reward you with Silver white metal (the material to craft Three Star Attack Medal), other items, and experience.||
+
+*name=Space battleship*
+*members=1 to 2*
+*area=far off regions*
+*material=Gel essence*
+*MaxDailyRuns=xx*
+*MinLevel=80*
+*points=3*
+||Chronos battleship(Slightly difficult) = Space battleship
+
+location: stone house;mist gods Ruins;277;180;far off regions
+Requires 1 to 2 players
+A mysterious spacecraft appeared in the sky over the south area of the sea, and there was a strong energy fluctuation in it. The spacecraft is now flying inland in the northeast direction.
+Please go to the spaceship to check the situation.
+Tip: The cannon barrel in front of the spaceship can only attack forward, not sideways.
+Dungeon Level 85, Limited to Level 80 and above. difficulty Slightly difficult. Completing the dungeon will reward you with Gel essence (the material to craft Three Star Attack Medal), other items, and experience.||
+
+*name=Treasure pavilion*
+*members=2 to 3*
+*area=far off regions*
+*material=Crystal horn or Blood of Source*
+*MaxDailyRuns=xx*
+*MinLevel=80*
+*points=3*
+||Treasure pavilion(Slightly difficult)
+
+location: stone house;mist gods Ruins;277;220;far off regions
+Requires a team of 2 to 3 players (3 adventure points)
+Zoira, the godmother of Sarantu, has collected a lot of items from the Demon World. The dark aura of these items has attracted creatures from the Demon World. Please go to Zoira's Treasure pavilion to expel those treasure robbers from the Demon World.
+Dungeon Level 85, Limited to Level 80 and above. difficulty Slightly difficult. Completing the dungeon will reward you with to craft Crystal horn (the material minotaur fusion beasts crystal), Blood of Source (the material to craft blood spirit fusion beasts crystal), other items, and experience.||
+
+*name=ghost house*
+*members=1 to 2*
+*area=forest in the deep mountain*
+*material=Flame Feather*
+*MaxDailyRuns=xx*
+*MinLevel=85*
+*points=xx*
+||ghost house (Difficult)
+
+location: tent;Hermit Camp;24;102;forest in the deep mountain
+Requires 1 to 2 players
+There is a scary ghost house, in which no living creatures can be seen, only mysterious boxes are placed in the house.
+Tip: Only specific props can kill ghosts, and you will be killed instantly if you are attacked by ghosts.
+Dungeon Level 90, Limited to Level 85 and above. difficulty difficult. Completing the dungeon will reward you with Flame Feather (the material to craft Fire-Capped Tit fusion beasts), other items, and experience.||
+
+*name=remnant base*
+*members=solo*
+*area=forest in the deep mountain*
+*material=Minotaur Soul Orb or Blood Spirit Soul Orb*
+*MaxDailyRuns=2*
+*MinLevel=85*
+*points=3*
+||remnants' base (Difficult)
+
+location: tent;Hermit Camp;129;102;forest in the deep mountain
+Solo dungeon
+Dungeon can be completed 2 times per day
+After Marshall was eliminated, a wave of remnants of his forces assembled into a new evil group, continued to do harm in one place. Please go and destroy these remnants.
+Tips: Please put the remote control bomb in a place with a bunker, make sure you hide behind the bunker, and control the detonation when the remote control bomb cannot harm yourself. If you are not sure whether the remote control bomb is successfully detonated, you can press the remote control again to make the remote control bomb self-destruct. There is a place where you need to use specific props to get past the grenade thrown.
+Dungeon Level 90, Limited to Level 85 and above. difficulty difficult. Completing the dungeon will reward you with Minotaur Soul Orb (the material to craft minotaur fusion beasts), Blood Spirit Soul Orb (the material to craft Blood spirit guardian fusion beasts), other items, and experience.||
+
+*name=Great Dragon Valley I*
+*members=2 to 3*
+*area=ancient Sealed Land*
+*material=Bright Yellow Metal*
+*MaxDailyRuns=1*
+*MinLevel=85*
+*points=6*
+||Dino Might (Slightly Difficult) = Great Dragon Valley I
+
+location: doorway;West Sealing Tower;130;61;ancient Sealed Land
+Requires a team of 2 to 3 players (6 adventure points)
+The sudden appearance of the portal, the huge amount of magic gas escaping from the portal, the powerful beast, and the village shrouded in the fog, all of which, the warrior please enter to find the source of the magic gas and solve it.
+Dungeon Level 90, Limited to Level 85 and above. Slightly difficult. Completing the dungeon will reward you with Bright Yellow Metal (the material to craft four stars attack medal), other items, and experience.||
+
+*name=Great Dragon Valley II*
+*members=2 to 3*
+*area=ancient Sealed Land*
+*material=Lake Blue Diamond*
+*MaxDailyRuns=1*
+*MinLevel=85*
+*points=6*
+||Iron stone (Difficult) = Great Dragon Valley II
+
+location: doorway;West Sealing Tower;90;61;ancient Sealed Land
+Requires a team of 2 to 3 players (6 adventure points)
+The crisis in dragon Village still exists. A kind of magic ore they guard attracts a group of horrible beasts. What secret is hidden in it?
+Dungeon Level 90, Limited to Level 85 and above.difficulty difficult. Completing the dungeon will reward you with Lake Blue Diamond (the material to craft Medal of adored by Female Soldiers and Medal of loved by the Counts), other items, and experience.
+Tip: fiery magma with instant lethal effect will emerge from the four corners of the cave. Please pay attention to the location of the magma. Through the Longli crystal in the central cave, you can see how long the magma will change position.||
+
+*name=Great Dragon Valley III*
+*members=2 to 4*
+*area=ancient Sealed Land*
+*material=Fire-capped tit soul orb*
+*MaxDailyRuns=1*
+*MinLevel=85*
+*points=6*
+||Wild Dragon (Difficult) = Great Dragon Valley III
+
+location: doorway;West Sealing Tower;61;71;ancient Sealed Land
+Requires a team of 2 to 4 players (6 adventure points)
+With the powerful ancient dragon and the loose seal of the Mist God, can the people of dragon Village complete their mission?
+Tip: You need to kill the monster correctly to promote the progress of the dungeon, otherwise it will fall into an infinite loop. Please pay attention to dodging the boss' nirvana.
+Dungeon Level 90, Limited to Level 85 and above.difficulty difficult. Completing the dungeon will reward you with Fire-capped tit soul orb (the material to craft Fire-Capped Tit Crystal), other items, and experience.||
