@@ -35,7 +35,6 @@ Accept Mission; you will receive 5000 experience and 5000 Arnebia; requires leve
 *name=Dimensional Space*
 *members=solo*
 *area=Central Plains*
-*material=none*
 *MaxDailyRuns=1*
 *MinLevel=26*
 ||Dimensional Space
@@ -508,7 +507,7 @@ Dungeon Level 70, Limited to Level 65 and above; difficulty Ordinary. Completing
 *area=Ancient Ruins*
 *material=Gel essence*
 *MaxDailyRuns=1*
-*MinLevel=75
+*MinLevel=75*
 *points=6*
 ||silver flying saucer (Difficult)
 
@@ -524,7 +523,7 @@ There will be robot birds patrolling in the hallway, you need to prevent them fr
 *area=Ancient Ruins*
 *material=Glazed Diamond*
 *MaxDailyRuns=2*
-*MinLevel=75
+*MinLevel=75*
 *points=3
 ||Gomez manor (Difficult)
 
@@ -540,7 +539,7 @@ Dungeon Level 80, Limited to Level 75 and above. difficulty Difficult. Completin
 *area=Ancient Ruins*
 *material=liquid metal*
 *MaxDailyRuns=1*
-*MinLevel=75
+*MinLevel=75*
 *points=6*
 ||Demon's Prison (Difficult)
 
