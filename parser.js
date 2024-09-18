@@ -1,3 +1,4 @@
+```javascript
 // Global variables
 let dungeons = [];
 const filters = {};
@@ -45,6 +46,38 @@ function parseDungeons(text) {
     return dungeons;
 }
 
+// Universal sorting function for dropdown values
+function sortValues(values) {
+    const integers = [];
+    const mixed = [];
+    const strings = [];
+
+    values.forEach(value => {
+        if (value === 'none') return; // "none" will be handled separately
+
+        const num = parseInt(value, 10);
+        if (!isNaN(num)) {
+            integers.push(num);
+        } else if (/^\d/.test(value)) { // Check if the value starts with a number
+            mixed.push(value);
+        } else {
+            strings.push(value);
+        }
+    });
+
+    // Sort the arrays
+    integers.sort((a, b) => a - b);
+    mixed.sort((a, b) => {
+        const numA = parseInt(a.match(/^\d+/), 10);
+        const numB = parseInt(b.match(/^\d+/), 10);
+        return numA - numB;
+    });
+    strings.sort();
+
+    // Return concatenated result: "none" first, then integers, then mixed, then strings
+    return ['none', ...integers, ...mixed, ...strings];
+}
+
 // Function to setup filters
 function setupFilters() {
     const filtersContainer = document.getElementById('filters');
@@ -69,18 +102,8 @@ function setupFilters() {
             }
         });
 
-        // Sort dropdowns based on custom rules
-        let sortedValues = Array.from(values);
-        if (tag === 'members') {
-            sortedValues = sortedValues.sort((a, b) => {
-                const order = ['none', 'solo', '1 to 2', '2 to 3', '2 to 4'];
-                return order.indexOf(a) - order.indexOf(b);
-            });
-        } else if (['area', 'material'].includes(tag)) {
-            sortedValues = sortedValues.sort((a, b) => a.localeCompare(b));
-        } else if (['MaxDailyRuns', 'MinLevel', 'points'].includes(tag)) {
-            sortedValues = sortedValues.sort((a, b) => (a === 'none' ? -1 : b === 'none' ? 1 : a - b));
-        }
+        // Sort values using the universal sorting function
+        const sortedValues = sortValues(Array.from(values));
 
         // Create dropdown select
         const select = document.createElement('select');
@@ -160,3 +183,4 @@ function displayDungeons(dungeons) {
 
 // Initialize the page
 fetchDungeons();
+```

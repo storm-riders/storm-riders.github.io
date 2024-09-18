@@ -476,7 +476,7 @@ Dungeon Level 75, Limited to Level 70 and above; difficulty Difficult. Completin
 *members=2 to 3*
 *area=Plague Abyss*
 *material=Lesser Demon Core*
-*MaxDailyRuns=1**
+*MaxDailyRuns=1*
 *MinLevel=70*
 *points=6*
 ||Gnome excavation plant(Ordinary)
