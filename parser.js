@@ -1,4 +1,3 @@
-```javascript
 // Global variables
 let dungeons = [];
 const filters = {};
@@ -46,38 +45,6 @@ function parseDungeons(text) {
     return dungeons;
 }
 
-// Universal sorting function for dropdown values
-function sortValues(values) {
-    const integers = [];
-    const mixed = [];
-    const strings = [];
-
-    values.forEach(value => {
-        if (value === 'none') return; // "none" will be handled separately
-
-        const num = parseInt(value, 10);
-        if (!isNaN(num)) {
-            integers.push(num);
-        } else if (/^\d/.test(value)) { // Check if the value starts with a number
-            mixed.push(value);
-        } else {
-            strings.push(value);
-        }
-    });
-
-    // Sort the arrays
-    integers.sort((a, b) => a - b);
-    mixed.sort((a, b) => {
-        const numA = parseInt(a.match(/^\d+/), 10);
-        const numB = parseInt(b.match(/^\d+/), 10);
-        return numA - numB;
-    });
-    strings.sort();
-
-    // Return concatenated result: "none" first, then integers, then mixed, then strings
-    return ['none', ...integers, ...mixed, ...strings];
-}
-
 // Function to setup filters
 function setupFilters() {
     const filtersContainer = document.getElementById('filters');
@@ -102,13 +69,9 @@ function setupFilters() {
             }
         });
 
-        // Sort values using the universal sorting function
-        const sortedValues = sortValues(Array.from(values));
-
-        // Create dropdown select
         const select = document.createElement('select');
         select.id = tag;
-        select.innerHTML = sortedValues.map(value => 
+        select.innerHTML = Array.from(values).map(value => 
             `<option value="${value}">${value}</option>`
         ).join('');
 
@@ -125,17 +88,6 @@ function setupFilters() {
         // Add event listener for automatic filtering
         select.addEventListener('change', filterDungeons);
     });
-
-    // Create "Set All to None" button
-    const setAllButton = document.createElement('button');
-    setAllButton.textContent = 'Set All to None';
-    setAllButton.addEventListener('click', () => {
-        document.querySelectorAll('#filters select').forEach(select => {
-            select.value = 'none';
-        });
-        filterDungeons(); // Trigger filtering after resetting
-    });
-    filtersContainer.insertBefore(setAllButton, filtersContainer.firstChild);
 }
 
 // Function to filter dungeons based on selected options
@@ -159,11 +111,6 @@ function displayDungeons(dungeons) {
     const dungeonsContainer = document.getElementById('dungeons');
     dungeonsContainer.innerHTML = '';
 
-    if (dungeons.length === 0) {
-        dungeonsContainer.innerHTML = '<p>No search results found</p>';
-        return;
-    }
-
     for (const dungeon of dungeons) {
         const dungeonElement = document.createElement('div');
         let dungeonHtml = `<h2>${dungeon.name}</h2>`;
@@ -183,4 +130,3 @@ function displayDungeons(dungeons) {
 
 // Initialize the page
 fetchDungeons();
-```
