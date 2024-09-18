@@ -524,7 +524,7 @@ There will be robot birds patrolling in the hallway, you need to prevent them fr
 *material=Glazed Diamond*
 *MaxDailyRuns=2*
 *MinLevel=75*
-*points=3
+*points=3*
 ||Gomez manor (Difficult)
 
 location:  of the Ancient tower;185;81;Ancient Ruins
@@ -571,7 +571,7 @@ Fireballs will jump out of the magma pool where the Fire Lord is. Please don't s
 *name=Spiral Grottoe*
 *members=2 to 3*
 *area=Ancient Ruins*
-*material=Liquid metal*
+*material=liquid metal*
 *MaxDailyRuns=1*
 *MinLevel=80*
 *points=6*
