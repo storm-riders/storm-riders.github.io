@@ -1,14 +1,3 @@
-I understand your concerns. Let's address them one by one:
-
-1. Undefined headings: You're right, the current code doesn't use the *name tag as the heading. We can fix this easily.
-
-2. Sorting dropdown options: This is a more complex issue, but we can implement a custom sorting function to handle mixed data types.
-
-Let's update the code to address these issues:
-
-
-
-```javascript
 // Global variables
 let dungeons = [];
 const filters = {};
@@ -35,19 +24,20 @@ function parseDungeons(text) {
         const dungeon = {};
         const lines = dungeonText.split('\n');
 
-        for (const line of lines) {
+        dungeon.name = lines[0].trim(); // Set the name directly
+
+        for (let i = 1; i < lines.length; i++) {
+            const line = lines[i];
             if (line.startsWith('*')) {
                 const [key, value] = line.slice(1).split('=');
                 dungeon[key.trim()] = value.trim();
             } else if (line.startsWith('||')) {
+                const descriptionEnd = dungeonText.lastIndexOf('||');
+                if (descriptionEnd > i) {
+                    dungeon.description = dungeonText.slice(dungeonText.indexOf('||') + 2, descriptionEnd).trim();
+                }
                 break;
             }
-        }
-
-        const descriptionStart = dungeonText.indexOf('||') + 2;
-        const descriptionEnd = dungeonText.lastIndexOf('||');
-        if (descriptionStart > 1 && descriptionEnd > descriptionStart) {
-            dungeon.description = dungeonText.slice(descriptionStart, descriptionEnd).trim();
         }
 
         dungeons.push(dungeon);
@@ -83,7 +73,7 @@ function setupFilters() {
         const select = document.createElement('select');
         select.id = tag;
         select.innerHTML = sortOptions(Array.from(values)).map(value => 
-            `<option value="${value}">${value}</option>`
+            `<option value="${value}">${value === 'none' ? 'All' : value}</option>`
         ).join('');
 
         const label = document.createElement('label');
@@ -150,11 +140,11 @@ function displayDungeons(dungeons) {
         // Add all properties except description and name
         Object.entries(dungeon).forEach(([key, value]) => {
             if (key !== 'name' && key !== 'description') {
-                dungeonHtml += `<p>${key}: ${value}</p>`;
+                dungeonHtml += `<p><strong>${key}:</strong> ${value}</p>`;
             }
         });
 
-        dungeonHtml += `<p>Description: ${dungeon.description}</p>`;
+        dungeonHtml += `<p><strong>Description:</strong> ${dungeon.description}</p>`;
         dungeonElement.innerHTML = dungeonHtml;
         dungeonsContainer.appendChild(dungeonElement);
     }
@@ -162,57 +152,3 @@ function displayDungeons(dungeons) {
 
 // Initialize the page
 fetchDungeons();
-
-```
-
-Here are the main changes I've made to address your concerns:
-
-1. Undefined headings: In the `displayDungeons` function, I've changed the heading to use the `name` property:
-
-   ```javascript
-   let dungeonHtml = `<h2>${dungeon.name}</h2>`; // Use name as the heading
-   ```
-
-   This ensures that the *name tag is used as the heading for each dungeon.
-
-2. Sorting dropdown options: I've added a new `sortOptions` function that handles the sorting of dropdown options:
-
-   ```javascript
-   function sortOptions(options) {
-       return options.sort((a, b) => {
-           if (a === 'none') return -1;
-           if (b === 'none') return 1;
-
-           const aNum = parseInt(a);
-           const bNum = parseInt(b);
-
-           if (!isNaN(aNum) && !isNaN(bNum)) {
-               return aNum - bNum;
-           } else if (!isNaN(aNum)) {
-               return -1;
-           } else if (!isNaN(bNum)) {
-               return 1;
-           } else {
-               return a.localeCompare(b);
-           }
-       });
-   }
-   ```
-
-   This function does the following:
-   - Places 'none' at the top of the list
-   - Sorts numeric values in ascending order
-   - Places numeric values before string values
-   - Sorts string values alphabetically
-
-   I've then integrated this function into the `setupFilters` function:
-
-   ```javascript
-   select.innerHTML = sortOptions(Array.from(values)).map(value => 
-       `<option value="${value}">${value}</option>`
-   ).join('');
-   ```
-
-These changes should address both of your main concerns. The headings will now be defined by the *name tag, and the dropdown options will be sorted with numbers first (in ascending order) followed by strings (in alphabetical order).
-
-Is there anything else you'd like me to modify or explain further?
