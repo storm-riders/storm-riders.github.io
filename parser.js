@@ -34,7 +34,11 @@ function parseDungeons(text) {
             } else if (line.startsWith('||')) {
                 const descriptionEnd = dungeonText.lastIndexOf('||');
                 if (descriptionEnd > i) {
-                    dungeon.description = dungeonText.slice(dungeonText.indexOf('||') + 2, descriptionEnd).trim();
+                    // Preserve line breaks in the description
+                    dungeon.description = dungeonText.slice(dungeonText.indexOf('||') + 2, descriptionEnd)
+                        .split('\n')
+                        .map(line => line.trim())
+                        .filter(line => line.length > 0);
                 }
                 break;
             }
@@ -144,7 +148,9 @@ function displayDungeons(dungeons) {
             }
         });
 
-        dungeonHtml += `<p><strong>Description:</strong> ${dungeon.description}</p>`;
+        // Display description with preserved formatting
+        dungeonHtml += `<p><strong>Description:</strong></p><pre>${dungeon.description.join('\n')}</pre>`;
+
         dungeonElement.innerHTML = dungeonHtml;
         dungeonsContainer.appendChild(dungeonElement);
     }
