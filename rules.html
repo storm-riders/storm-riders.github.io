@@ -53,4 +53,16 @@
         <p>After three months, the warning will expire, and the member will be notified accordingly.</p>
     </section>
 </body>
+    <div id="importantContent">
+        <!-- Content from important.html will be loaded here -->
+    </div>
+
+    <script>
+        fetch('important.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('importantContent').innerHTML = data;
+            })
+            .catch(error => console.error('Error loading the important content:', error));
+    </script>
 </html>
