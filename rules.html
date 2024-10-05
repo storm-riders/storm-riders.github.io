@@ -52,5 +52,14 @@
         <p>The system of warnings is an important aspect of maintaining order within the Storm Riders gang. Warnings will be recorded in a document and will last for three months. If a player breaks any rule during the time theirrwarningis active, they will be removed from the gang.</p>
         <p>After three months, the warning will expire, and the member will be notified accordingly.</p>
     </section>
+<div id="important-links"></div>
+
+<script>
+    fetch('important.html')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('important').innerHTML = data;
+        });
+</script>
 </body>
 </html>
