@@ -20,6 +20,17 @@
         <p>Before you apply to join our gang, it is essential that you familiarize yourself with our rules and guidelines. Understanding and adhering to these rules will ensure that our gang remains fair and effective for everyone.</p>
         <p>Please take the time to read our rules carefully. You can find them by following this link: <a href="rules.html">Storm Riders Gang Rules</a>. By applying to join the Storm Riders, you agree to comply with all the rules outlined in the document.</p>
     </section>
-<!--#include file="important.html" -->
+    <div id="importantContent">
+        <!-- Content from important.html will be loaded here -->
+    </div>
+
+    <script>
+        fetch('important.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('importantContent').innerHTML = data;
+            })
+            .catch(error => console.error('Error loading the important content:', error));
+    </script>
 </body>
 </html>
