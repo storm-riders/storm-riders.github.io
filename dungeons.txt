@@ -288,7 +288,7 @@ Requires a team of 2 to 3 players (3 adventure points)
 A person who claims to be a Demonist built a factory for researching and manufacturing demons in an underground space. Warriors, please go to destroy the Demonist and stop demon world from researching demons.
 Dungeon Level 65, Limited to Level 60 and above; difficulty Ordinary. Completing the dungeon will reward you with Crystal Wolf Teeth (the material to craft Werewolf fusion beasts), Crystal coral (the material to craft Sea Spirit Guardian fusion beasts), other items, and experience.||
 
-*name=monster factory*
+*name=power plant*
 *members=2 to 3*
 *area=mine tunnel*
 *material=Werewolf Soul Orb or Sea Spirit Soul Orb*
@@ -585,7 +585,7 @@ Tip: Please pay attention to avoid the vortex in the spiral cave, once you are s
 Never use resurrection crystals in the center of the vortex.||
 
 *name=Centralia*
-*members=2 to 4*
+*members=solo*
 *area=Ancient Ruins*
 *material=Powerful magnet*
 *MaxDailyRuns=2*
