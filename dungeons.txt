@@ -794,7 +794,7 @@ Dungeon Level 90, Limited to Level 85 and above.difficulty difficult. Completing
 
 location: tent;Hermit Camp;24;79;forest in the deep mountain
 The horrible hotel, the waiters in disguise, the travelers who strayed into it did not come out alive, and even their souls would be lost in it. Please go to the ghost hotel to rescue those lost ghosts.
-Dungeon Level 95, Limited to Level 90 and above. difficulty difficult. Completing the dungeon will reward you with Fire-Capped Tit fusion beasts (the material to craft Flame Feather), other items, and experience.
+Dungeon Level 95, Limited to Level 90 and above. difficulty difficult. Completing the dungeon will reward you with Fire-Capped Tit fusion beasts (the material to craft Flame Feather), other items, and experience.||
 
 *name=Zombie Village*
 *members=solo*
@@ -807,7 +807,7 @@ Dungeon Level 95, Limited to Level 90 and above. difficulty difficult. Completin
 
 location: tent;Hermit Camp;129;76;forest in the deep mountain
 A mountain village was attacked by a plague from the Demon world, and no one survived. Only by eliminating the zombie King who brought the plague can the village restore peace.
-Dungeon Level 95, Limited to Level 90 and above. difficulty Slightly difficult. Completing the dungeon will reward you with Medal of adored by Female Soldiers or Medal of loved by the Counts (the material to craft Medium Demon Essence), other items, and experience.
+Dungeon Level 95, Limited to Level 90 and above. difficulty Slightly difficult. Completing the dungeon will reward you with Medal of adored by Female Soldiers or Medal of loved by the Counts (the material to craft Medium Demon Essence), other items, and experience.||
 
 *name=dark monastery I*
 *members=2 to 3*
@@ -821,7 +821,7 @@ Dungeon Level 95, Limited to Level 90 and above. difficulty Slightly difficult. 
 location: doorway;East Sealing Tower;371;61;ancient Sealed Land
 The forces behind the Crusaders were finally revealed. Because of the craziness and blind obedience of the Dark Crusaders themselves, the Dark Crusaders have done countless evil deeds in the name of justice under the demagogue and instigation of the fear demon king who has occupied the body of the leader of the Crusaders.
 Tip: Beware of rolling and falling rocks, and don't act recklessly.
-Dungeon Level 95, Limited to Level 90 and above.difficulty difficult. Completing the dungeon will reward you with Lake Blue Diamond (the material to craft Medal of adored by Female Soldiers and Medal of loved by the Counts), other items, and experience.
+Dungeon Level 95, Limited to Level 90 and above.difficulty difficult. Completing the dungeon will reward you with Lake Blue Diamond (the material to craft Medal of adored by Female Soldiers and Medal of loved by the Counts), other items, and experience.||
 
 *name=dark monastery II*
 *members=2 to 3*
@@ -835,7 +835,7 @@ Dungeon Level 95, Limited to Level 90 and above.difficulty difficult. Completing
 location: doorway;East Sealing Tower;411;61;ancient Sealed Land
 The forces behind the Crusaders were finally revealed. Because of the craziness and blind obedience of the Dark Crusaders themselves, the Dark Crusaders have done countless evil deeds in the name of justice under the demagogue and instigation of the fear demon king who has occupied the body of the leader of the Crusaders.
 Tip: The library is heavily guarded and there are many soldiers, so remember not to act recklessly.
-Dungeon Level 95, Limited to Level 90 and above.difficulty difficult. Completing the dungeon will reward you with Fire-capped tit soul orb (the material to craft Fire-Capped Tit Crystal), other items, and experience.
+Dungeon Level 95, Limited to Level 90 and above.difficulty difficult. Completing the dungeon will reward you with Fire-capped tit soul orb (the material to craft Fire-Capped Tit Crystal), other items, and experience.||
 
 *name=dark monastery III*
 *members=4 to 5*
@@ -849,7 +849,7 @@ Dungeon Level 95, Limited to Level 90 and above.difficulty difficult. Completing
 location: doorway;East Sealing Tower;440;90;ancient Sealed Land
 The forces behind the Crusaders were finally revealed. Because of the craziness and blind obedience of the Dark Crusaders themselves, the Dark Crusaders have done countless evil deeds in the name of justice under the demagogue and instigation of the fear demon king who has occupied the body of the leader of the Crusaders.
 Tips: Please take advantage of the terrain and be careful of the ambushing enemies.
-Dungeon Level 95, Limited to Level 90 and above. difficulty difficult. Completing the dungeon will reward you with Mammoth Soul Orb (the material to craft Mammoth Crystal), Flame Spirit Soul Orb (the material to craft Flame Spirit Crystal), other items, and experience.
+Dungeon Level 95, Limited to Level 90 and above. difficulty difficult. Completing the dungeon will reward you with Mammoth Soul Orb (the material to craft Mammoth Crystal), Flame Spirit Soul Orb (the material to craft Flame Spirit Crystal), other items, and experience.||
 
 *name=red house*
 *members=2*
@@ -862,7 +862,7 @@ Dungeon Level 95, Limited to Level 90 and above. difficulty difficult. Completin
 
 location: doorway;West Sealing Tower;70;140;ancient Sealed Land
 In the space fissure where we don't know, there is a red house that no one can walk out of. It will randomly appear in front of two people and take them away at the same time. It is said that only two people can break the secret at the same time, the access that can really leave the house can be opened.
-Dungeon Level 95, Limited to Level 90 and above. difficulty difficult. Completing the dungeon will reward you with Crystal ivory (the material to craft Mammoth Crystal), Seed of Blaze (the material to craft Flame Spirit Crystal), other items, and experience.
+Dungeon Level 95, Limited to Level 90 and above. difficulty difficult. Completing the dungeon will reward you with Crystal ivory (the material to craft Mammoth Crystal), Seed of Blaze (the material to craft Flame Spirit Crystal), other items, and experience.||
 
 *name=Crusader Barracks*
 *members=1 to 2*
@@ -875,4 +875,4 @@ Dungeon Level 95, Limited to Level 90 and above. difficulty difficult. Completin
 
 location: doorway;West Sealing Tower;110;140;ancient Sealed Land
 What are the fallen crusaders guarding? What forces are behind them just around the corner? All this is waiting for your reveal.
-Dungeon Level 95, Limited to Level 90 and above. Slightly difficult. Completing the dungeon will reward you with Bright Yellow Metal (the material to craft four stars attack medal), other items, and experience.
+Dungeon Level 95, Limited to Level 90 and above. Slightly difficult. Completing the dungeon will reward you with Bright Yellow Metal (the material to craft four stars attack medal), other items, and experience.||
