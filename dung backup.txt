@@ -60,9 +60,9 @@ After completing, you get the speed fusion beast bluish white horse as a reward.
 *area=Fertile Wilds*
 *material=insulating glue*
 *MaxDailyRuns=1*
-*MinLevel=36*
-*points=xx*
-
+*MinLevel=40*
+*points=3*
+*MaxDailyRuns=1*
 ||Demon base
 
 location: mountain road;395;2;Fertile Wilds
@@ -96,9 +96,9 @@ Tip 2: When the warrior's level is no higher than the dungeon level by 4 level, 
 *members=1 to 2*
 *area=hidden water cave*
 *material=Ebony Metal*
-*MaxDailyRuns=1*
+*MaxDailyRuns=xx*
 *MinLevel=50*
-*points=xx*
+*points=3*
 ||Ice maze(Ordinary)
 
 location:stone chamber;28;107;hidden water cave
@@ -147,9 +147,9 @@ Tip 2: When the warrior's level is no higher than the dungeon level by 4 level, 
 *members=solo*
 *area=hidden water cave*
 *material=Glowstone*
-*MaxDailyRuns=1*
+*MaxDailyRuns=2*
 *MinLevel=50*
-*points=xx*
+*points=3*
 ||Bubble Cube(Ordinary):
 
 location: stone chamber;96;49;hidden water cave
@@ -174,9 +174,9 @@ Spider cave is an Experience Dungeon, which can be entered once a day. If you've
 *members=solo*
 *area=water curtained cave*
 *material=Ironclad crystal*
-*MaxDailyRuns=1*
+*MaxDailyRuns=xx*
 *MinLevel=45*
-*points=xx*
+*points=3*
 ||Abnormal Mountain Boar (Ordinary) = Graceful Mountain:
 
 location: cave;water curtain cave;34;39;water curtained cave
@@ -204,7 +204,7 @@ Scorpion cave is an Experience Dungeon, which can be entered once a day. If you'
 *material=Suspicious Plating*
 *MaxDailyRuns=1*
 *MinLevel=55*
-*points=xx*
+*points=3*
 ||Cathy Manor(Slightly difficult):
 
 location: West Cave;cavern;133;142;thousand miles of rivers
@@ -232,9 +232,9 @@ Dungeon Level 60, Limited to Level 55 and above; difficulty Ordinary. Completing
 *members=solo*
 *area=thousand miles of rivers*
 *material=Red velvet*
-*MaxDailyRuns=1*
+*MaxDailyRuns=2*
 *MinLevel=60*
-*points=xx*
+*points=3*
 ||Baru Grottoe(Difficult):
 
 location: Northwest turn;178;102;thousand miles of rivers
@@ -247,9 +247,9 @@ Dungeon Level 65, Limited to Level 60 and above; difficulty Ordinary. Completing
 *members=solo*
 *area=thousand miles of rivers*
 *material=Green cotton yarn*
-*MaxDailyRuns=1*
+*MaxDailyRuns=2*
 *MinLevel=60*
-*points=xx*
+*points=3*
 ||Elemental Maze(Ordinary):
 
 location: southeast turn;177;78;thousand miles of rivers
@@ -306,9 +306,9 @@ Dungeon Level 65, Limited to Level 60 and above; difficulty Ordinary. Completing
 *members=1 to 2*
 *area=mine tunnel*
 *material=Ebony Metal*
-*MaxDailyRuns=xx*
+*MaxDailyRuns=1*
 *MinLevel=55*
-*points=xx*
+*points=3*
 ||Crimson Mausoleum (Ordinary)
 
 location: stone chamber;7;61;mine tunnel
@@ -366,9 +366,9 @@ Dungeon Level 75, Limited to Level 70 and above; difficulty Slightly difficult. 
 *members=1 to 2*
 *area=Valley of Luxuriant forests*
 *material=Turquoise Metal*
-*MaxDailyRuns=1*
+*MaxDailyRuns=xx*
 *MinLevel=65*
-*points=xx*
+*points=3*
 ||Dryad Jungle (Slightly difficult)
 
 location: inner road;Orchid woods Village;166;156;Valley of Luxuriant forests
@@ -462,9 +462,9 @@ After entering the base, kill a group of guards first, then two players prepare 
 *members=1 to 2*
 *area=Plague Abyss*
 *material=Nether Fire*
-*MaxDailyRuns=xx*
+*MaxDailyRuns=1*
 *MinLevel=70*
-*points=xx*
+*points=3*
 ||amazing old city(Difficult)
 
 location: stone chamber;113;29;Plague Abyss
@@ -605,7 +605,7 @@ Dungeon Level 85, Limited to Level 80 and above. Difficulty difficult. Completin
 *members=1 to 2*
 *area=far off regions*
 *material=Silver white metal*
-*MaxDailyRuns=xx*
+*MaxDailyRuns=1*
 *MinLevel=75*
 *points=3*
 ||Machining plant(Slightly difficult)
@@ -621,7 +621,7 @@ Dungeon Level 80, Limited to Level 75 and above. difficulty Slightly difficult. 
 *members=2 to 3*
 *area=far off regions*
 *material=Powerful magnet*
-*MaxDailyRuns=xx*
+*MaxDailyRuns=1*
 *MinLevel=75*
 *points=3*
 ||fully mountain(Slightly difficult)
@@ -635,9 +635,9 @@ Dungeon Level 80, Limited to Level 75 and above. difficulty Slightly difficult. 
 *members=1 to 2*
 *area=far off regions*
 *material=Medium Demon Essence*
-*MaxDailyRuns=xx*
+*MaxDailyRuns=1*
 *MinLevel=85*
-*points=xx*
+*points=3*
 ||bloody pagan(Slightly difficult) = Dark night camp 
 
 location: stone house;mist gods Ruins;124;180;far off regions
@@ -682,7 +682,7 @@ Dungeon Level 85, Limited to Level 80 and above. difficulty ordinary. Completing
 *members=1 to 2*
 *area=far off regions*
 *material=Gel essence*
-*MaxDailyRuns=xx*
+*MaxDailyRuns=1*
 *MinLevel=80*
 *points=3*
 ||Chronos battleship(Slightly difficult) = Space battleship
@@ -698,7 +698,7 @@ Dungeon Level 85, Limited to Level 80 and above. difficulty Slightly difficult. 
 *members=2 to 3*
 *area=far off regions*
 *material=Crystal horn or Blood of Source*
-*MaxDailyRuns=xx*
+*MaxDailyRuns=1*
 *MinLevel=80*
 *points=3*
 ||Treasure pavilion(Slightly difficult)
@@ -712,9 +712,9 @@ Dungeon Level 85, Limited to Level 80 and above. difficulty Slightly difficult. 
 *members=1 to 2*
 *area=forest in the deep mountain*
 *material=Flame Feather*
-*MaxDailyRuns=xx*
+*MaxDailyRuns=1*
 *MinLevel=85*
-*points=xx*
+*points=3*
 ||ghost house (Difficult)
 
 location: tent;Hermit Camp;24;102;forest in the deep mountain
@@ -782,3 +782,97 @@ Requires a team of 2 to 4 players (6 adventure points)
 With the powerful ancient dragon and the loose seal of the Mist God, can the people of dragon Village complete their mission?
 Tip: You need to kill the monster correctly to promote the progress of the dungeon, otherwise it will fall into an infinite loop. Please pay attention to dodging the boss' nirvana.
 Dungeon Level 90, Limited to Level 85 and above.difficulty difficult. Completing the dungeon will reward you with Fire-capped tit soul orb (the material to craft Fire-Capped Tit Crystal), other items, and experience.||
+
+*name=ghost hotel*
+*members=solo*
+*area=forest in the deep mountain*
+*material=Flame Feather*
+*MaxDailyRuns=xx*
+*MinLevel=90*
+*points=3*
+||ghost hotel  (Difficult)
+
+location: tent;Hermit Camp;24;79;forest in the deep mountain
+The horrible hotel, the waiters in disguise, the travelers who strayed into it did not come out alive, and even their souls would be lost in it. Please go to the ghost hotel to rescue those lost ghosts.
+Dungeon Level 95, Limited to Level 90 and above. difficulty difficult. Completing the dungeon will reward you with Fire-Capped Tit fusion beasts (the material to craft Flame Feather), other items, and experience.||
+
+*name=Zombie Village*
+*members=solo*
+*area=forest in the deep mountain*
+*material=Medium Demon Essence*
+*MaxDailyRuns=xx*
+*MinLevel=90*
+*points=3*
+||Zombie Village  (Slightly Difficult)
+
+location: tent;Hermit Camp;129;76;forest in the deep mountain
+A mountain village was attacked by a plague from the Demon world, and no one survived. Only by eliminating the zombie King who brought the plague can the village restore peace.
+Dungeon Level 95, Limited to Level 90 and above. difficulty Slightly difficult. Completing the dungeon will reward you with Medal of adored by Female Soldiers or Medal of loved by the Counts (the material to craft Medium Demon Essence), other items, and experience.||
+
+*name=dark monastery I*
+*members=2 to 3*
+*area=ancient Sealed Land*
+*material=Lake Blue Diamond*
+*MaxDailyRuns=1*
+*MinLevel=90*
+*points=6*
+||Dark Arsenal (Difficult)
+
+location: doorway;East Sealing Tower;371;61;ancient Sealed Land
+The forces behind the Crusaders were finally revealed. Because of the craziness and blind obedience of the Dark Crusaders themselves, the Dark Crusaders have done countless evil deeds in the name of justice under the demagogue and instigation of the fear demon king who has occupied the body of the leader of the Crusaders.
+Tip: Beware of rolling and falling rocks, and don't act recklessly.
+Dungeon Level 95, Limited to Level 90 and above.difficulty difficult. Completing the dungeon will reward you with Lake Blue Diamond (the material to craft Medal of adored by Female Soldiers and Medal of loved by the Counts), other items, and experience.||
+
+*name=dark monastery II*
+*members=2 to 3*
+*area=ancient Sealed Land*
+*material=Fire-capped tit soul orb*
+*MaxDailyRuns=1*
+*MinLevel=90*
+*points=6*
+||dark library (Difficult)
+
+location: doorway;East Sealing Tower;411;61;ancient Sealed Land
+The forces behind the Crusaders were finally revealed. Because of the craziness and blind obedience of the Dark Crusaders themselves, the Dark Crusaders have done countless evil deeds in the name of justice under the demagogue and instigation of the fear demon king who has occupied the body of the leader of the Crusaders.
+Tip: The library is heavily guarded and there are many soldiers, so remember not to act recklessly.
+Dungeon Level 95, Limited to Level 90 and above.difficulty difficult. Completing the dungeon will reward you with Fire-capped tit soul orb (the material to craft Fire-Capped Tit Crystal), other items, and experience.||
+
+*name=dark monastery III*
+*members=4 to 5*
+*area=ancient Sealed Land*
+*material=Mammoth Soul Orb or Flame Spirit Soul Orb*
+*MaxDailyRuns=1*
+*MinLevel=90*
+*points=6*
+||Cathedral of Darkness (Difficult)
+
+location: doorway;East Sealing Tower;440;90;ancient Sealed Land
+The forces behind the Crusaders were finally revealed. Because of the craziness and blind obedience of the Dark Crusaders themselves, the Dark Crusaders have done countless evil deeds in the name of justice under the demagogue and instigation of the fear demon king who has occupied the body of the leader of the Crusaders.
+Tips: Please take advantage of the terrain and be careful of the ambushing enemies.
+Dungeon Level 95, Limited to Level 90 and above. difficulty difficult. Completing the dungeon will reward you with Mammoth Soul Orb (the material to craft Mammoth Crystal), Flame Spirit Soul Orb (the material to craft Flame Spirit Crystal), other items, and experience.||
+
+*name=red house*
+*members=2*
+*area=ancient Sealed Land*
+*material=Crystal ivory or Seed of Blaze*
+*MaxDailyRuns=xx*
+*MinLevel=90*
+*points=3*
+||Lost house (Difficult)
+
+location: doorway;West Sealing Tower;70;140;ancient Sealed Land
+In the space fissure where we don't know, there is a red house that no one can walk out of. It will randomly appear in front of two people and take them away at the same time. It is said that only two people can break the secret at the same time, the access that can really leave the house can be opened.
+Dungeon Level 95, Limited to Level 90 and above. difficulty difficult. Completing the dungeon will reward you with Crystal ivory (the material to craft Mammoth Crystal), Seed of Blaze (the material to craft Flame Spirit Crystal), other items, and experience.||
+
+*name=Crusader Barracks*
+*members=1 to 2*
+*area=ancient Sealed Land*
+*material=Bright Yellow Metal*
+*MaxDailyRuns=xx*
+*MinLevel=90*
+*points=3*
+||Crusader Barracks (Slightly Difficult)
+
+location: doorway;West Sealing Tower;110;140;ancient Sealed Land
+What are the fallen crusaders guarding? What forces are behind them just around the corner? All this is waiting for your reveal.
+Dungeon Level 95, Limited to Level 90 and above. Slightly difficult. Completing the dungeon will reward you with Bright Yellow Metal (the material to craft four stars attack medal), other items, and experience.||

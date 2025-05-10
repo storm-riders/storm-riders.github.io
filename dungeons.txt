@@ -166,7 +166,7 @@ Tip 2: When the warrior's level is no higher than the dungeon level by 4 level, 
 *MinLevel=40*
 ||Spider cave:
 
-location:aisle;water curtain cave;54;4;water curtained cave
+location: aisle;water curtain cave;54;4;water curtained cave
 Solo XP dungeon (from level 40)
 Spider cave is an Experience Dungeon, which can be entered once a day. If you've already entered other experience dungeons today, then you cannot enter this dungeon. Please eliminate as many monsters as you can within the time limit to gain more experience. Your pet will move on its own in the experience dungeon.||
 
@@ -876,3 +876,41 @@ Dungeon Level 95, Limited to Level 90 and above. difficulty difficult. Completin
 location: doorway;West Sealing Tower;110;140;ancient Sealed Land
 What are the fallen crusaders guarding? What forces are behind them just around the corner? All this is waiting for your reveal.
 Dungeon Level 95, Limited to Level 90 and above. Slightly difficult. Completing the dungeon will reward you with Bright Yellow Metal (the material to craft four stars attack medal), other items, and experience.||
+
+*name=White Bone Cave*
+*members=solo*
+*area=ancient Sealed Land*
+*MaxDailyRuns=1*
+*MinLevel=90*
+||White Bone Cave
+
+location: doorway;West Sealing Tower;61;110;ancient Sealed Land
+Solo XP dungeon (from level 90)
+White Bone Cave is an Experience Dungeon, which can be entered once a day. If you've already entered other experience dungeons today, then you cannot enter this dungeon. Please eliminate as many monsters as you can within the time limit to gain more experience. Your pet will move on its own in the experience dungeon.||
+
+*name=Another Dimension*
+*members=2*
+*area=ancient Sealed Land*
+*material=Eternal Star*
+*MaxDailyRuns=xx*
+*MinLevel=96*
+*points=3*
+||Fairies' call for help (Slightly Difficult)
+
+location: doorway;East Sealing Tower;411;140;ancient Sealed Land
+Xiaoyue, the black magic fairy, is practicing a black magic potion. Xiaoyue is worried that her plan will be ruined by the little magic fairy, so she joins forces with her apprentice, Yan Lili, the little black magic fairy, to capture the two little magic fairies. The little magic fairies contacted sister Xiaolan through telepathy, but due to the disorder of time and space around the black magic tower, their thoughts of seeking help came to the mysterious continent. Let the magic circle take you through time and space to the world of the little magic fairies to help them.
+Dungeon Level 100, Limited to Level 96 and above. Slightly difficult. Completing the dungeon will reward you with Eternal Star (the material to craft Five stars attack medal), other items, and experience.||
+
+*name=dreamland*
+*members=solo*
+*area=ancient Sealed Land*
+*material=Crystal ivory or Seed of Blaze*
+*MaxDailyRuns=xx*
+*MinLevel=95*
+*points=3*
+||Protect the Flower of Dreams (Difficult)
+
+location: doorway;East Sealing Tower;440;130;ancient Sealed Land
+In the dream of human beings, a flower representing dreams blooms, it is white and beautiful. However, Elsa and the dream demon extend their clutches to the dream flower, and she wants to absorb the energy of the dream flower to strengthen her magic, which will also make humans lose their dreams and sleep forever.
+There are dream eaters who guard the dream key in the dream, they can eat everything in the dream, you must get the dream key from under their noses and solve the puzzle in the dream to go to the depths of the dream.
+Dungeon Level 100, Limited to Level 95 and above. difficulty difficult. Completing the dungeon will reward you with Crystal ivory (the material to craft Mammoth Crystal), Seed of Blaze (the material to craft Flame Spirit Crystal), other items, and experience.||
