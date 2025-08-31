@@ -914,3 +914,34 @@ location: doorway;East Sealing Tower;440;130;ancient Sealed Land
 In the dream of human beings, a flower representing dreams blooms, it is white and beautiful. However, Elsa and the dream demon extend their clutches to the dream flower, and she wants to absorb the energy of the dream flower to strengthen her magic, which will also make humans lose their dreams and sleep forever.
 There are dream eaters who guard the dream key in the dream, they can eat everything in the dream, you must get the dream key from under their noses and solve the puzzle in the dream to go to the depths of the dream.
 Dungeon Level 100, Limited to Level 95 and above. difficulty difficult. Completing the dungeon will reward you with Crystal ivory (the material to craft Mammoth Crystal), Seed of Blaze (the material to craft Flame Spirit Crystal), other items, and experience.||
+
+*name=Skull Mountain*
+*members=solo*
+*area=portal of the demon world*
+*material=Higher Demon Core*
+*MaxDailyRuns=xx*
+*MinLevel=97*
+*points=3*
+||Wrath of the Lich King (Difficult)
+
+location: pedestal;91;65;portal of the demon world
+After being defeated by humanity, the Lich King resolved to lead the Undead Scourge in retaliation. Now, he has gained the ability to create miniature black holes and intends to use the power of the void to destroy the world.
+You must thwart the Lich King's plans again before he masters the creation of giant black holes, or the Undead Scourge will bring devastation to the human world.
+Dungeon Level 100, Limited to Level 97 and above. difficult. Completing the dungeon will reward you Higher Demon Core (the material to craft Princess's Kiss or Prince's Tears other items, and experience.||
+
+*name=The Deep Underground*
+*members=1 to 2*
+*area=portal of the demon world*
+*material=Mammoth Soul Orb or Flame Spirit Soul Orb*
+*MaxDailyRuns=xx*
+*MinLevel=98*
+*points=3*
+||The Legend of Kaschi (Difficult)
+
+location: pedestal;11;65;portal of the demon world
+Long, long ago, the ancient Sealed Land was not as it is now, nor was it called the Sealed Land. At that time, there was a human tribe settled here called the Kaschi
+The Demon Realm's incursion forced Amryd, the last leader of the Kaschi to undertake a perilous migration with his tribe towards the central continent, where the Mist God's barrier offered protection. The journey itself was a brutal trial, and the tribe suffered countless losses.
+Amryed needed immense power to protect his people. His will was sensed by an unknown, immeasurable mist god, who granted him great strength.
+As Amred protected his people and was about to reach their destination, his body suddenly changed and turned into a black mist. Amred also lost his kindness and only had the desire for killing, killing all the lives in the Kaschi tribe.
+With the aid of Matthew, God of Mists, the Great Heroes sundered the lands of the Kaschi Tribe from the continent, sealing them within a gate. This gate was named the Gate of the portal of the demon world.
+Dungeon Level 100, Limited to Level 98 and above. difficulty difficult. Completing the dungeon will reward you Mammoth Soul Orb (the material to craft Mammoth Crystal), Flame Spirit Soul Orb (the material to craft Flame Spirit Crystal), other items, and experience.||
