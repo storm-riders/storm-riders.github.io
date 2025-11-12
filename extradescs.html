@@ -1,1 +1,46 @@
-Lorem ipsum
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Level 100 Solo Dungeon Descriptions</title>
+</head>
+<body>
+  <h1>Assassin</h1>
+  <p>Your investigation reveals the Gemini Assassin, a notorious executioner of the Garth Empire, to be the likely culprit behind the death of your master, the Shadow Assassin.</p>
+
+  <h1>Elf</h1>
+  <p>The Great Cavern, birthplace of the Fireborn Elf now lies in the grip of the Undead. Gathering your courage, you've resolved to return to your ancestral home and face the Undead head-on, hoping to uncover the truth behind their presence.</p>
+
+  <h1>Hunter</h1>
+  <p>A batch of incredibly powerful monsters has appeared in Monster Canyon! Grab your bow and arrows, and go hunt down these mightier beasts!</p>
+
+  <h1>Mage</h1>
+  <p>In the canyons nestled deep within the silver snow mountains of the bitter cold lands, a powerful surge of pure ice and snow energy can be felt. Is this the echo of forgotten magic, or a harbinger of ill tidings?</p>
+
+  <h1>Orc</h1>
+  <p>In the Monster Mountain Range, the Demonic Race has begun artificial Orc fusion experiments, based on the very principles of the Fusion Beasts. The resulting modified Orc warriors are imbued with human intellect and the formidable physique of demonic beasts. If the scope of these experiments were to expand, the world would face incalculable consequences.</p>
+
+  <h1>Priest</h1>
+  <p>Monsters from the Demon Realm have attacked Dawn Village spreading plague and death. Benevolent Priest, please use your Holy Light power to save Dawn and bring about its true dawn!</p>
+
+  <h1>Sorcerer</h1>
+  <p>You've discovered an ancient tomb, emanating a mysterious aura. Perhaps very old remains lie within. Go forth and explore to your heart's content!</p>
+
+  <h1>Warrior</h1>
+  <p>Grand Duke Trini calls upon warriors to investigate the Monstrous Cave. Monsters are pouring out relentlessly, catching the human army by surprise. Where are these creatures coming from?</p>
+
+    <div id="importantContent">
+        <!-- Content from important.html will be loaded here -->
+    </div>
+
+    <script>
+        fetch('important.html')
+            .then(response => response.text())
+            .then(data => {
+                document.getElementById('importantContent').innerHTML = data;
+            })
+            .catch(error => console.error('Error loading the important content:', error));
+    </script>
+</body>
+</html>

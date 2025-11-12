@@ -972,4 +972,4 @@ Dungeon Level 100, Limited to Level 99 and above. Slightly difficult. Completing
 
 location: pedestal;87;42;portal of the demon world
 Dungeon Level 100, Limited to Level 100 and above. Slightly difficult. Completing the dungeon will reward you Earth Center Diamond (the material to craft five stars attack medal), other items, and experience.
-<a href="https://stormriders.github.io/extradescs.html" target="_blank" rel="noopener noreferrer">Click here for all the descriptions for each class</a>||
+<a href="https://storm-riders.github.io/extradescs.html" target="_blank" rel="noopener noreferrer">Click here for all the descriptions for each class</a>||
