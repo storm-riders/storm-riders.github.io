@@ -945,3 +945,31 @@ Amryed needed immense power to protect his people. His will was sensed by an unk
 As Amred protected his people and was about to reach their destination, his body suddenly changed and turned into a black mist. Amred also lost his kindness and only had the desire for killing, killing all the lives in the Kaschi tribe.
 With the aid of Matthew, God of Mists, the Great Heroes sundered the lands of the Kaschi Tribe from the continent, sealing them within a gate. This gate was named the Gate of the portal of the demon world.
 Dungeon Level 100, Limited to Level 98 and above. difficulty difficult. Completing the dungeon will reward you Mammoth Soul Orb (the material to craft Mammoth Crystal), Flame Spirit Soul Orb (the material to craft Flame Spirit Crystal), other items, and experience.||
+
+*name=Interdimensional*
+*members=2 to 3*
+*area=portal of the demon world*
+*material=Orb of Space-Time*
+*MaxDailyRuns=1*
+*MinLevel=99*
+*points=3*
+||Calabash Brothers' Wish (Slightly Difficult)
+
+location: pedestal;14;42;portal of the demon world
+Legend has it, deep within the Calabash Mountains, two malevolent spirits lay imprisoned: the Scorpion Demon and the Serpent Demon. One day, a pangolin, by unfortunate chance, burrowed through the cavern walls, unleashing these two fiends upon the world. From that moment, the common folk suffered greatly. The pangolin, filled with remorse, was rescued by a wise old man. The pangolin revealed to him that only by cultivating the Seven-Colored Calabash could these demons be vanquished. The old man, taking a single calabash seed, planted it and watched as it bore seven magnificent gourds: red, orange, yellow, green, cyan, blue, and purple. However, the demons, peering through their mystical Ruyi Mirror, espied the growing calabashes. Unable to destroy them, they instead seized the old man who had nurtured them. One by one, the seven calabashes ripened and fell to the ground, transforming into seven barefoot young boys, each clothed in the color of their respective gourd. To defeat the demons and rescue their elder, these Calabash Brothers, one after another, bravely set forth to confront the fiends.
+Big Brother has great strength, but he’s courageous without much cunning. After being tricked by the Demon into a swamp, his energy center was sealed, he was trapped by spider webs, and later hypnotized by the magical Ruyi staff. Second Brother has the abilities of farsight and keen hearing, but the Demon blinded him with a light sword and damaged his left ear. He was later rescued along with the old man by the pangolin and Third Brother. Third Brother has a head of bronze and iron arms; he saved Second Brother and the old man and smashed the magic mirror, but in the end, he was trapped by the demon with a Yin-Yang sword and pinned by a huge stone. Fire Brother can control flames, and Water Brother excels at manipulating water. While picking herbs for Second Brother, they accidentally saved two Demon and were later tricked by the Demon —Fire Brother was made drunk with Chilling Spring Wine, and Water Brother with Soul-Drain Wine. Later, with help from a bird, Second Brother regained his sight and hearing, but together with his yet-to-be-born Sixth and Seventh Brothers, he was captured by the Demon  and tied to a giant spiked boulder. Sixth Brother possesses the power of invisibility. He secretly snuck into the Demon lair, reclaimed the Ruyi staff, and rescued his five elder brothers. Meanwhile, the purple gourd was blackened by the snake demon, and Seventh Brother, under the Demon control, absorbed his brothers into the bio-absorbing gourd in his hand—only to also be captured by the Demon in the end.
+Warriors, traverse time and space to change the ending of the Calabash Brothers! The kind old Grandpa, the brave Pangolin, and the poor little Butterfly are waiting for you to rescue them.
+Dungeon Level 100, Limited to Level 99 and above. Slightly difficult. Completing the dungeon will reward you Orb of Space-Time (the material to craft Realm Pack other items, and experience.||
+
+*name=Mysterious (*
+*members=solo*
+*area=portal of the demon world*
+*material=Earth Center Diamond*
+*MaxDailyRuns=xx*
+*MinLevel=100*
+*points=3*
+||unique dungeon for each class (see below for more details)
+
+location: pedestal;87;42;portal of the demon world
+Dungeon Level 100, Limited to Level 100 and above. Slightly difficult. Completing the dungeon will reward you Earth Center Diamond (the material to craft five stars attack medal), other items, and experience.
+<a href="https://stormriders.github.io/extradescs.html" target="_blank" rel="noopener noreferrer">Click here for all the descriptions for each class</a>||
