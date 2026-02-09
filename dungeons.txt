@@ -961,7 +961,7 @@ Big Brother has great strength, but he’s courageous without much cunning. Afte
 Warriors, traverse time and space to change the ending of the Calabash Brothers! The kind old Grandpa, the brave Pangolin, and the poor little Butterfly are waiting for you to rescue them.
 Dungeon Level 100, Limited to Level 99 and above. Slightly difficult. Completing the dungeon will reward you Orb of Space-Time (the material to craft Realm Pack other items, and experience.||
 
-*name=Mysterious (*
+*name=Mysterious*
 *members=solo*
 *area=portal of the demon world*
 *material=Earth Center Diamond*
@@ -973,3 +973,17 @@ Dungeon Level 100, Limited to Level 99 and above. Slightly difficult. Completing
 location: pedestal;87;42;portal of the demon world
 Dungeon Level 100, Limited to Level 100 and above. Slightly difficult. Completing the dungeon will reward you Earth Center Diamond (the material to craft five stars attack medal), other items, and experience.
 <a href="https://storm-riders.github.io/extradescs.html" target="_blank" rel="noopener noreferrer">Click here for all the descriptions for each class</a>||
+
+*name=The lost courtyard*
+*members=4 to 5*
+*area=portal of the demon world*
+*material=Dimension Key*
+*MaxDailyRuns=1*
+*MinLevel=100*
+*points=6*
+||The Lost Courtyard (Difficult)
+
+location: pedestal;40;40;portal of the demon world
+"It exists within the rifts of space and time, observing the world's operation and development. Dangerous souls reside within it, awaiting the coming of the final day. World-ending floods sweep across the land, and life perishes amidst the waves."
+"Warning: Be wary of one-shot kill traps and fireballs in the Lost Corridors. Different traps will rotate on the Lost Chessboard, so don't linger there for too long. The final boss's basic attack is a one-shot kill."
+Dungeon Level 100, Limited to Level 100 and above. difficult. Completing the dungeon will reward you Dimension Key (the material to craft Realm Pack other items, and experience.||
