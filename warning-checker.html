@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Warning Status</title>
+<style>
+  body {
+    font-family: sans-serif;
+    max-width: 480px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    font-size: 1.1rem;
+  }
+  label { display: block; margin-bottom: 0.4rem; font-weight: bold; }
+  input[type="text"] {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 1rem;
+    margin-bottom: 0.6rem;
+  }
+  button {
+    padding: 0.5rem 1.2rem;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  #result {
+    margin-top: 1.2rem;
+    font-size: 1.1rem;
+  }
+</style>
+</head>
+<body>
+
+<h1>Warning Status</h1>
+
+<label for="searchInput">Player name or ID:</label>
+<input type="text" id="searchInput" autocomplete="off" spellcheck="false">
+<button onclick="checkWarning()">Check</button>
+
+<div id="result" role="status" aria-live="polite"></div>
+
+<script>
+const WARNINGS_URL = './warnings.json';
+
+const MEMBERS = {
+  "5001":  "CaptainEgg",
+  "6013":  "FrostEgg",
+  "8602":  "AngelOfLove",
+  "4647":  "Lacksus",
+  "20653": "erwanitta",
+  "3136":  "LightningEgg",
+  "8576":  "CuteCat",
+  "20224": "FlamingEgg",
+  "7617":  "reckless",
+  "4486":  "azacel",
+  "3597":  "ecate",
+  "12365": "LadyCharm",
+  "2384":  "Reinaa",
+  "14356": "Glam",
+  "2966":  "GodEgg",
+  "5143":  "stornnn",
+  "11159": "HolyMoon",
+  "7772":  "Libra",
+  "16804": "elaris",
+  "8677":  "HolyEgg",
+  "12325": "Emir",
+  "14699": "Angryegg",
+  "4460":  "Loba",
+  "6194":  "Flizer",
+  "13874": "HotEgg",
+  "15027": "Solvaneh",
+  "26677": "Caterina",
+  "7541":  "pepitopaloma",
+  "5558":  "mmanulcat"
+};
+
+const NAME_TO_ID = {};
+for (const [id, name] of Object.entries(MEMBERS)) {
+  NAME_TO_ID[name.toLowerCase()] = id;
+}
+
+let warningsData = null;
+
+async function loadWarnings() {
+  if (warningsData) return warningsData;
+  try {
+    const res = await fetch(WARNINGS_URL + '?t=' + Date.now());
+    warningsData = await res.json();
+    return warningsData;
+  } catch (e) {
+    return null;
+  }
+}
+
+async function checkWarning() {
+  const raw = document.getElementById('searchInput').value.trim();
+  const resultEl = document.getElementById('result');
+
+  if (!raw) {
+    resultEl.textContent = 'Enter a name or ID.';
+    return;
+  }
+
+  resultEl.textContent = 'Loading…';
+
+  const data = await loadWarnings();
+  if (!data) {
+    resultEl.textContent = 'Error: could not load data. Please try again.';
+    return;
+  }
+
+  // Resolve ID
+  let id = null;
+  const query = raw.toLowerCase();
+
+  if (/^\d+$/.test(raw)) {
+    id = raw;
+  } else {
+    id = NAME_TO_ID[query] || null;
+    if (!id) {
+      for (const [n, i] of Object.entries(NAME_TO_ID)) {
+        if (n.includes(query)) { id = i; break; }
+      }
+    }
+  }
+
+  if (!id || !MEMBERS[id]) {
+    resultEl.textContent = 'Player not found. Check the name or use your in-game ID.';
+    return;
+  }
+
+  const name = MEMBERS[id];
+  const warn = data[id];
+
+  if (!warn) {
+    resultEl.textContent = `${name} (ID ${id}): no active warning.`;
+    return;
+  }
+
+  const r = warn.checksRemaining;
+  const weeks = r === 1 ? '1 week' : `${r} weeks`;
+  resultEl.textContent = `${name} (ID ${id}): active warning. ${weeks} remaining until removed.`;
+}
+
+document.getElementById('searchInput').addEventListener('keydown', e => {
+  if (e.key === 'Enter') checkWarning();
+});
+</script>
+
+</body>
+</html>
