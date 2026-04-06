@@ -987,3 +987,18 @@ location: pedestal;40;40;portal of the demon world
 "It exists within the rifts of space and time, observing the world's operation and development. Dangerous souls reside within it, awaiting the coming of the final day. World-ending floods sweep across the land, and life perishes amidst the waves."
 "Warning: Be wary of one-shot kill traps and fireballs in the Lost Corridors. Different traps will rotate on the Lost Chessboard, so don't linger there for too long. The final boss's basic attack is a one-shot kill."
 Dungeon Level 100, Limited to Level 100 and above. difficult. Completing the dungeon will reward you Dimension Key (the material to craft Realm Pack other items, and experience.||
+
+*name=Demon Castle*
+*members=2 to 3*
+*area=portal of the demon world*
+*material=Dark Purple Gold*
+*MaxDailyRuns=1*
+*MinLevel=100*
+*points=6*
+||Demon Realm Counterattack Plan (Difficult)
+
+location: pedestal;63;38;portal of the demon world
+The Demon Realm's repeated attempts to invade the mist Continent have been foiled by humans. Unwilling to accept defeat, the demons have rallied various forces and are preparing a last-ditch counterattack.
+"Brave warriors are tasked with venturing deep into the Demon Castle to thwart the infernal plot before the demonic forces can execute their designs."
+Hint: The Demonic Castle is filled with numerous mechanisms from its periphery to its interior. Be cautious of lightning strikes that track you, deadly turrets, fire-breathing fissures, and trolls that cannot be directly killed. Every step you take must be careful.
+Dungeon Level 100, Limited to Level 100 and above. difficult. Completing the dungeon will reward you Dark Purple Gold (the material to craft Princess's Kiss or Prince's Tears other items, and experience.||

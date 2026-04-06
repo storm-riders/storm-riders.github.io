@@ -1,13 +1,18 @@
 {
   "_meta": {
-    "lastUpdate": "2026-03-30"
+    "note": "checksRemaining = how many checks remain (3 = just received, 0 = remove next update). Lower by 1 each week. When it hits 0, remove the entry.",
+    "lastUpdate": "2026-04-06"
   },
   "20224": {
     "name": "Miralf",
-    "checksRemaining": 2
+    "checksRemaining": 1
   },
-  "5143": {
-    "name": "stornnn",
-    "checksRemaining": 2
+  "7617": {
+    "name": "reckless",
+    "checksRemaining": 3
+  },
+  "11159": {
+    "name": "HolyMoon",
+    "checksRemaining": 3
   }
 }
