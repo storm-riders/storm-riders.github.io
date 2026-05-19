@@ -1,10 +1,14 @@
 {
   "_meta": {
     "note": "checksRemaining = how many checks remain (3 = just received, 0 = remove next update). Lower by 1 each week. When it hits 0, remove the entry.",
-    "lastUpdate": "2026-05-04"
+    "lastUpdate": "2026-05-19"
   },
-  "11514": {
-    "name": "Aetherion",
+  "12325": {
+    "name": "Emir",
     "checksRemaining": 3
+  },
+  "6241": {
+    "name": "reckless",
+    "checksRemaining": 2
   }
 }
